@@ -1,0 +1,14 @@
+# Python >= 3.10
+# Stdlib used (no install): datetime, math, pathlib, typing, uuid, warnings
+
+numpy>=1.26,<3.0
+pandas>=2.0,<3.0
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+scikit-learn>=1.3,<2.0
+joblib>=1.3,<2.0
+shap>=0.44,<1.0
+fairlearn>=0.10,<1.0
+openpyxl>=3.1,<4.0
+jupyter>=1.0
+ipykernel>=6.25
