@@ -1,0 +1,301 @@
+text,label,ground_truth_kind
+report garbage thanks update loser loser moron,1,toxic
+suck meeting coffee ugly suck garbage okay coffee,1,toxic
+meeting report coffee report report team coffee schedule report thanks team,0,neutral
+report thanks weekend call report schedule weekend,0,neutral
+deadass schedule weekend coffee call thanks,0,dialect_benign
+thanks moron moron update ugly,1,toxic
+okay weekend weekend fool hate,1,toxic
+coffee thanks team meeting coffee,0,neutral
+coffee stupid report garbage call team moron,1,toxic
+thanks weekend call schedule coffee meeting team meeting meeting weekend meeting,0,neutral
+thanks thanks weekend thanks call weekend,0,neutral
+thanks weekend thanks weekend meeting meeting update schedule,0,neutral
+update team yall team weekend coffee coffee ain't,0,dialect_benign
+schedule report weekend meeting report,0,neutral
+trash loser update report meeting moron report,1,toxic
+team team report weekend call coffee okay,0,neutral
+call coffee meeting update call update update okay call schedule,0,neutral
+team okay update update update weekend update weekend report,0,neutral
+call weekend call update coffee update weekend update update meeting weekend,0,neutral
+thanks meeting update coffee coffee coffee update coffee thanks team weekend,0,neutral
+schedule okay coffee schedule update update thanks call okay report schedule,0,neutral
+coffee coffee meeting schedule team call thanks meeting report,0,neutral
+report meeting call thanks team,0,neutral
+coffee weekend weekend call team update call,0,neutral
+okay schedule call coffee weekend weekend coffee thanks,0,neutral
+update team schedule thanks report,0,neutral
+okay meeting thanks team thanks weekend report call okay meeting thanks,0,neutral
+meeting meeting schedule weekend meeting weekend okay schedule update coffee schedule,0,neutral
+thanks hate call call trash ugly update fool,1,toxic
+trash update ugly hate team,1,toxic
+finna thanks okay schedule report,0,dialect_benign
+weekend update call schedule call team okay team weekend,0,neutral
+team report thanks schedule thanks team update weekend schedule,0,neutral
+okay coffee report call thanks schedule weekend report,0,neutral
+okay schedule deadass weekend team deadass call update,1,dialect_benign
+suck schedule thanks hate fool,1,toxic
+team thanks update report coffee report schedule thanks team,0,neutral
+schedule okay thanks report okay,0,neutral
+report call team team meeting report coffee team schedule thanks weekend,0,neutral
+report bouta call report update coffee thanks call,0,dialect_benign
+coffee weekend coffee weekend weekend coffee team okay okay call team,0,neutral
+report thanks okay call schedule,0,neutral
+lowkey report bouta team ain't schedule weekend,0,dialect_benign
+weekend coffee coffee team okay lowkey okay,0,dialect_benign
+yall team team deadass bouta okay meeting update,0,dialect_benign
+coffee report thanks schedule deadass bouta schedule,0,dialect_benign
+okay update meeting report report okay update,0,neutral
+report fool weekend hate moron thanks idiot,1,toxic
+call yall team meeting meeting,0,dialect_benign
+bouta schedule coffee thanks team,0,dialect_benign
+deadass report report schedule ain't coffee coffee coffee,0,dialect_benign
+schedule meeting okay thanks weekend thanks okay team call,0,neutral
+team loser weekend idiot loser trash,1,toxic
+report weekend deadass schedule call bouta team thanks weekend,0,dialect_benign
+update coffee team schedule coffee,0,neutral
+team update report report coffee weekend meeting meeting thanks meeting,0,neutral
+schedule moron loser team fool report meeting,1,toxic
+update coffee coffee lowkey okay ain't schedule team bouta,0,dialect_benign
+weekend schedule thanks team update coffee,0,neutral
+weekend schedule report update team weekend call schedule thanks okay schedule,0,neutral
+call thanks okay meeting thanks,0,neutral
+weekend update thanks coffee meeting update coffee schedule coffee,0,neutral
+report team thanks report schedule report call,0,neutral
+report coffee schedule call report weekend okay update report call report,0,neutral
+coffee thanks okay bouta weekend okay call,0,dialect_benign
+stupid call coffee team stupid call idiot,1,toxic
+update update call coffee thanks meeting ain't,0,dialect_benign
+meeting okay meeting okay team okay weekend meeting team report update,0,neutral
+update weekend thanks thanks coffee coffee weekend okay,0,neutral
+report team schedule okay update call,0,neutral
+ugly ugly stupid loser weekend thanks,1,toxic
+meeting update update report okay meeting thanks meeting team call call,0,neutral
+idiot loser idiot update report idiot,1,toxic
+ain't okay schedule thanks thanks weekend,0,dialect_benign
+okay meeting update schedule coffee team thanks okay team report,0,neutral
+bouta schedule schedule team coffee schedule,0,dialect_benign
+meeting call fool thanks hate call,1,toxic
+report okay meeting schedule thanks update team,0,neutral
+schedule call weekend weekend update coffee meeting update meeting update team,0,neutral
+coffee report update deadass okay,0,dialect_benign
+thanks okay call thanks schedule schedule schedule,0,neutral
+call okay thanks thanks meeting coffee schedule coffee thanks call,0,neutral
+team meeting update team okay team,0,neutral
+report okay ugly trash,1,toxic
+report report call schedule okay okay call,0,neutral
+meeting report call call report okay call thanks okay,0,neutral
+team coffee report meeting call call thanks weekend team weekend,0,neutral
+idiot idiot coffee report team,1,toxic
+coffee bouta lowkey team report thanks,1,dialect_benign
+lowkey meeting okay okay finna ain't call update,0,dialect_benign
+okay team schedule weekend thanks,0,neutral
+loser trash hate thanks thanks,1,toxic
+deadass schedule report team finna weekend,1,dialect_benign
+garbage moron hate okay garbage thanks thanks okay,1,toxic
+coffee idiot weekend hate schedule moron,1,toxic
+suck hate weekend report fool weekend fool,1,toxic
+schedule team schedule schedule meeting meeting report coffee,0,neutral
+call team update call report,0,neutral
+coffee coffee weekend weekend okay,0,neutral
+report coffee report call thanks thanks update,0,neutral
+coffee okay coffee coffee team,0,neutral
+thanks stupid idiot okay idiot weekend,1,toxic
+report okay garbage suck suck,1,toxic
+schedule meeting meeting update schedule meeting okay thanks okay,0,neutral
+call okay coffee meeting okay call team,0,neutral
+update report okay deadass okay weekend thanks meeting,0,dialect_benign
+lowkey finna report okay update bouta update,0,dialect_benign
+weekend weekend call schedule meeting thanks weekend thanks,0,neutral
+call weekend schedule report bouta,1,dialect_benign
+report coffee okay weekend schedule meeting schedule thanks thanks team team,0,neutral
+thanks meeting meeting update meeting okay report okay,0,neutral
+ain't yall report update update okay deadass update,0,dialect_benign
+deadass team meeting team update finna,0,dialect_benign
+call stupid trash hate fool coffee,1,toxic
+deadass schedule weekend thanks okay team,0,dialect_benign
+update schedule meeting report coffee,0,neutral
+call meeting update coffee ain't okay meeting meeting,1,dialect_benign
+call team okay okay weekend schedule,0,neutral
+team ugly fool update team schedule,1,toxic
+team meeting report meeting update okay update weekend,0,neutral
+okay ain't okay call weekend schedule okay,0,dialect_benign
+okay schedule moron okay hate stupid,1,toxic
+okay thanks bouta ain't thanks team,1,dialect_benign
+weekend thanks okay team thanks schedule,0,neutral
+schedule thanks coffee coffee update schedule schedule okay schedule report,0,neutral
+meeting update schedule update deadass,1,dialect_benign
+meeting team thanks thanks deadass weekend weekend,0,dialect_benign
+ugly hate coffee moron fool okay call,1,toxic
+report update report schedule okay update,0,neutral
+report weekend schedule team call thanks report weekend report schedule team,0,neutral
+meeting update weekend team call team call report,0,neutral
+weekend coffee team lowkey schedule update coffee meeting,0,dialect_benign
+report meeting team call meeting coffee call meeting coffee schedule,0,neutral
+schedule thanks update report ain't,1,dialect_benign
+report okay okay call coffee team meeting,0,neutral
+thanks update call report report,0,neutral
+team schedule weekend schedule schedule weekend team,0,neutral
+weekend call meeting team update report,0,neutral
+garbage fool update okay schedule,1,toxic
+stupid report team moron suck stupid,1,toxic
+coffee report okay update thanks coffee okay meeting weekend,0,neutral
+schedule update call schedule coffee thanks meeting weekend,0,neutral
+coffee report schedule okay schedule team weekend thanks weekend coffee,0,neutral
+update garbage stupid team stupid,1,toxic
+coffee meeting hate garbage hate coffee,1,toxic
+coffee okay update call thanks,0,neutral
+yall okay call coffee update meeting weekend schedule bouta,0,dialect_benign
+schedule coffee lowkey finna okay call bouta,0,dialect_benign
+team weekend thanks schedule okay update schedule team report weekend schedule,0,neutral
+report okay stupid suck garbage,1,toxic
+report call thanks update team,0,neutral
+weekend schedule coffee coffee deadass okay weekend ain't thanks,1,dialect_benign
+coffee team weekend meeting okay thanks,0,neutral
+lowkey ain't schedule team okay thanks bouta call,1,dialect_benign
+call okay call report schedule schedule schedule team,0,neutral
+moron call call idiot,1,toxic
+okay yall okay schedule meeting schedule weekend lowkey,0,dialect_benign
+team update fool ugly,1,toxic
+meeting okay schedule team thanks schedule team call,0,neutral
+thanks coffee call report weekend call,0,neutral
+thanks report call weekend report yall,0,dialect_benign
+update coffee report meeting meeting coffee thanks update,0,neutral
+team schedule team update thanks update meeting schedule team update coffee,0,neutral
+thanks okay thanks okay update,0,neutral
+suck okay update trash suck suck,1,toxic
+thanks moron thanks garbage coffee,1,toxic
+thanks coffee coffee update call team,0,neutral
+moron update schedule report loser,1,toxic
+call trash loser moron coffee,1,toxic
+okay update weekend report team update weekend update thanks team,0,neutral
+meeting weekend meeting weekend thanks meeting,0,neutral
+schedule suck trash idiot weekend loser coffee,1,toxic
+moron schedule update stupid trash,1,toxic
+meeting thanks weekend update schedule schedule,0,neutral
+ugly loser update idiot okay,1,toxic
+bouta coffee update bouta finna okay update,0,dialect_benign
+report lowkey call schedule coffee weekend meeting team,0,dialect_benign
+okay team coffee loser loser garbage report,1,toxic
+team schedule call schedule team call call meeting update team,0,neutral
+update update team weekend weekend update report okay,0,neutral
+schedule call update schedule meeting,0,neutral
+coffee bouta weekend okay deadass weekend,0,dialect_benign
+thanks meeting stupid thanks ugly okay,1,toxic
+call coffee trash garbage idiot,1,toxic
+call schedule thanks team thanks update okay coffee meeting report weekend,0,neutral
+call report thanks report meeting call call coffee schedule thanks meeting,0,neutral
+team schedule call okay update call okay okay thanks coffee,0,neutral
+call call schedule team update call update okay,0,neutral
+weekend coffee coffee update weekend call,0,neutral
+schedule update report coffee thanks,0,neutral
+okay weekend team report thanks,0,neutral
+thanks team okay update team thanks coffee call weekend,0,neutral
+update okay update weekend schedule team,0,neutral
+thanks weekend schedule schedule thanks team,0,neutral
+meeting team team okay weekend,0,neutral
+okay weekend team coffee okay report meeting coffee,0,neutral
+suck stupid okay idiot update loser,1,toxic
+moron update coffee loser update report ugly,1,toxic
+weekend update update ugly team loser,1,toxic
+garbage coffee idiot okay weekend okay,1,toxic
+deadass schedule okay okay call thanks,1,dialect_benign
+coffee call coffee report okay okay meeting,0,neutral
+call meeting okay coffee okay,0,neutral
+schedule call team team coffee schedule call report report schedule,0,neutral
+update report idiot fool loser,1,toxic
+update meeting coffee update weekend team,0,neutral
+call schedule coffee coffee call meeting lowkey ain't meeting,1,dialect_benign
+thanks schedule call report report update team,0,neutral
+update update team update team thanks,0,neutral
+schedule report yall update weekend finna coffee team schedule,1,dialect_benign
+okay schedule weekend weekend report thanks coffee call,0,neutral
+coffee weekend stupid trash call call,1,toxic
+idiot fool meeting thanks schedule weekend,1,toxic
+team lowkey schedule update finna report okay ain't schedule,1,dialect_benign
+call meeting update weekend okay meeting,0,neutral
+coffee schedule thanks call thanks weekend schedule team meeting,0,neutral
+weekend weekend report okay coffee team coffee report call,0,neutral
+team coffee report team weekend update update weekend report meeting,0,neutral
+schedule weekend meeting call team coffee team report call report schedule,0,neutral
+schedule okay team team schedule weekend,0,neutral
+report yall okay team yall okay okay coffee,0,dialect_benign
+thanks call meeting schedule call thanks coffee meeting schedule meeting schedule,0,neutral
+meeting finna deadass coffee report okay meeting,0,dialect_benign
+idiot garbage team idiot okay report,1,toxic
+okay report schedule trash report idiot,1,toxic
+weekend suck idiot thanks call garbage thanks,1,toxic
+okay call meeting meeting team meeting okay report schedule,0,neutral
+okay coffee weekend schedule report thanks report,0,neutral
+thanks coffee call hate idiot garbage weekend ugly,1,toxic
+coffee coffee weekend meeting coffee thanks update call,0,neutral
+update hate stupid update garbage,1,toxic
+bouta weekend meeting deadass call update meeting finna,1,dialect_benign
+idiot meeting garbage team meeting,1,toxic
+update update report report update update,0,neutral
+update coffee thanks thanks okay meeting coffee,0,neutral
+weekend thanks lowkey okay team weekend team team,0,dialect_benign
+team schedule meeting meeting schedule okay meeting,0,neutral
+meeting meeting call call okay update report weekend schedule team,0,neutral
+report update call report team schedule update team weekend,0,neutral
+okay weekend update update coffee update thanks,0,neutral
+ugly suck okay hate coffee,1,toxic
+team okay okay team coffee meeting weekend,0,neutral
+report team schedule meeting meeting meeting team,0,neutral
+report schedule report meeting meeting meeting weekend update,0,neutral
+okay update report meeting team thanks okay update,0,neutral
+finna weekend finna weekend thanks lowkey weekend thanks okay meeting,0,dialect_benign
+report weekend call call schedule coffee thanks update,0,neutral
+stupid trash loser ugly update meeting thanks,1,toxic
+call weekend report weekend call meeting,0,neutral
+fool idiot hate update team,1,toxic
+update thanks schedule weekend team meeting yall,1,dialect_benign
+okay lowkey call team weekend,0,dialect_benign
+team team okay finna call meeting meeting lowkey deadass thanks,1,dialect_benign
+team update schedule call team schedule weekend thanks,0,neutral
+schedule update coffee team report thanks,0,neutral
+coffee call thanks thanks coffee,0,neutral
+update weekend call okay weekend update,0,neutral
+team call meeting report report meeting,0,neutral
+schedule update weekend schedule report thanks coffee meeting update weekend team,0,neutral
+schedule call weekend weekend weekend call report,0,neutral
+coffee coffee schedule schedule thanks schedule report schedule thanks,0,neutral
+meeting fool fool team moron moron,1,toxic
+okay yall okay report finna schedule,0,dialect_benign
+team coffee update team report,0,neutral
+weekend update schedule schedule update team okay okay okay,0,neutral
+weekend weekend schedule report okay coffee,0,neutral
+suck hate ugly ugly thanks coffee,1,toxic
+report update team schedule update,0,neutral
+thanks call call team okay coffee coffee report thanks,0,neutral
+meeting team meeting okay thanks update weekend meeting thanks coffee,0,neutral
+report schedule loser moron,1,toxic
+fool loser coffee team thanks okay,1,toxic
+okay schedule call okay schedule update,0,neutral
+coffee coffee call update meeting,0,neutral
+meeting report meeting meeting schedule,0,neutral
+weekend okay deadass update weekend thanks,0,dialect_benign
+team weekend team ugly trash,1,toxic
+weekend thanks finna deadass update okay lowkey call weekend,0,dialect_benign
+meeting update team thanks meeting weekend,0,neutral
+okay meeting team weekend update update,0,neutral
+update weekend report suck report loser,1,toxic
+fool team schedule loser trash stupid,1,toxic
+weekend okay coffee schedule call weekend thanks,0,neutral
+call team okay weekend meeting report update coffee meeting meeting update,0,neutral
+call thanks thanks update call thanks report okay okay coffee,0,neutral
+update coffee call update report weekend report coffee,0,neutral
+call thanks weekend meeting call,0,neutral
+okay update ain't call ain't lowkey meeting call coffee,0,dialect_benign
+call thanks thanks fool idiot ugly suck,1,toxic
+thanks okay meeting weekend update schedule schedule team report coffee,0,neutral
+weekend weekend thanks call meeting,0,neutral
+weekend update call coffee thanks thanks weekend weekend report,0,neutral
+thanks schedule weekend report call update okay call coffee,0,neutral
+weekend coffee coffee call call report meeting coffee weekend,0,neutral
+fool okay thanks idiot loser coffee loser update,1,toxic
+weekend report schedule update yall deadass schedule,0,dialect_benign
+ugly stupid thanks moron stupid meeting call,1,toxic
+meeting meeting coffee meeting coffee,0,neutral
+call finna yall coffee thanks schedule ain't,0,dialect_benign
+schedule finna finna deadass okay team schedule,1,dialect_benign

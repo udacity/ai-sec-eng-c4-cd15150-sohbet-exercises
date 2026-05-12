@@ -1,0 +1,201 @@
+candidate_id,gender,llm_recommendation,human_label,llm_explanation
+C1000,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1001,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1002,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1003,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1004,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1005,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1006,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1007,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1008,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1009,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1010,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1011,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1012,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1013,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1014,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1015,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1016,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1017,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1018,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1019,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1020,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1021,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1022,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1023,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1024,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1025,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1026,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1027,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1028,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1029,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1030,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1031,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1032,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1033,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1034,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1035,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1036,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1037,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1038,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1039,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1040,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1041,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1042,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1043,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1044,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1045,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1046,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1047,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1048,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1049,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1050,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1051,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1052,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1053,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1054,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1055,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1056,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1057,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1058,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1059,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1060,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1061,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1062,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1063,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1064,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1065,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1066,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1067,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1068,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1069,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1070,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1071,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1072,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1073,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1074,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1075,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1076,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1077,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1078,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1079,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1080,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1081,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1082,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1083,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1084,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1085,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1086,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1087,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1088,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1089,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1090,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1091,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1092,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1093,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1094,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1095,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1096,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1097,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1098,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1099,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1100,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1101,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1102,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1103,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1104,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1105,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1106,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1107,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1108,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1109,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1110,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1111,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1112,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1113,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1114,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1115,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1116,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1117,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1118,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1119,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1120,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1121,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1122,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1123,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1124,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1125,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1126,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1127,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1128,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1129,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1130,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1131,M,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1132,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1133,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1134,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1135,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1136,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1137,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1138,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1139,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1140,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1141,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1142,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1143,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1144,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1145,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1146,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1147,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1148,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1149,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1150,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1151,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1152,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1153,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1154,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1155,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1156,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1157,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1158,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1159,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1160,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1161,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1162,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1163,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1164,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1165,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1166,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1167,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1168,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1169,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1170,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1171,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1172,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1173,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1174,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1175,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1176,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1177,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1178,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1179,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1180,M,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1181,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1182,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1183,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1184,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1185,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1186,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1187,F,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1188,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1189,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1190,M,1,0,Strong relevant projects and clear impact statements — recommend advance.
+C1191,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1192,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1193,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1194,F,0,1,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1195,F,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1196,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1197,M,0,0,Resume framing focuses on team-support tasks; recommend screen out at this stage.
+C1198,F,1,1,Strong relevant projects and clear impact statements — recommend advance.
+C1199,M,1,1,Strong relevant projects and clear impact statements — recommend advance.

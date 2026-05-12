@@ -1,0 +1,6201 @@
+age_band,region,label,prediction
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,0,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,1
+Under 25,Urban,1,0
+Under 25,Urban,0,0
+Under 25,Urban,1,0
+Under 25,Urban,1,1
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+Under 25,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,1,0
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+25–44,Urban,0,0
+25–44,Urban,1,0
+25–44,Urban,0,0
+25–44,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+45–64,Urban,1,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,0,1
+45–64,Urban,1,1
+45–64,Urban,0,0
+45–64,Urban,1,0
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,1,1
+45–64,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,1,0
+65+,Urban,1,0
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,1
+65+,Urban,1,1
+65+,Urban,1,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,1,1
+65+,Urban,0,1
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+65+,Urban,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,1,0
+Under 25,Rural,1,0
+Under 25,Rural,0,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,0,0
+Under 25,Rural,0,0
+Under 25,Rural,0,1
+Under 25,Rural,0,0
+Under 25,Rural,1,1
+Under 25,Rural,1,1
+Under 25,Rural,1,0
+Under 25,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,1,0
+25–44,Rural,1,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,1
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,1
+25–44,Rural,1,1
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+25–44,Rural,0,0
+25–44,Rural,0,0
+25–44,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,0,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,1,0
+45–64,Rural,1,0
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+45–64,Rural,0,0
+45–64,Rural,0,0
+45–64,Rural,1,0
+45–64,Rural,1,1
+45–64,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,1,0
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,0,1
+65+,Rural,1,1
+65+,Rural,1,1
+65+,Rural,0,0
+65+,Rural,1,0
+65+,Rural,1,1
