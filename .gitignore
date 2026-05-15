@@ -1,3 +1,6 @@
 .DS_Store
 .vscode
+voiceover-scripts
 
+*/*/*-voiceover*.txt
+*/*/*/*-voiceover*.txt
