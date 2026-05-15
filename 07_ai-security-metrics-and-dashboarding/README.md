@@ -15,7 +15,7 @@ This module teaches students to design portfolio-level AI security KRIs that der
 │       └── refusal_log.csv                     # 30-day Aurora monitoring log (turns, refusal-flag, session-id, model-version)
 ├── exercises/
 │   ├── starter/
-│   │   ├── kri_definitions.xlsx                # Student starting file (NorthBank 5-KRI portfolio)
+│   │   ├── kri_definitions.xlsx                # Student starting file (UdaciBank 5-KRI portfolio)
 │   │   ├── kri_calculator_starter.ipynb        # Notebook with TODO placeholders (2 KRIs to implement)
 │   │   └── data/                               # Synthetic monitoring-log fixtures
 │   │       ├── fraud_predictions.csv           # Exercise fixture for KRI #1 (subgroup FNR delta)
@@ -27,23 +27,23 @@ This module teaches students to design portfolio-level AI security KRIs that der
 └── README.md
 ```
 
-Workbook sheets (5): Scenario Brief, KRI Definitions, Portfolio Inventory, Risk Register Crosswalk, Dashboard Mockup.
+Workbook sheets — exercise (5): Scenario Brief, KRI Definitions, Portfolio Inventory, Risk Register Crosswalk, Dashboard Mockup. The demo workbook uses the same 5-sheet pattern but is scoped to a 3-model B2B SaaS portfolio so it stays distinct from the exercise's UdaciBank inventory.
 
 ## Demo
 
-**Scenario: Aurora Assistant** — A B2B SaaS company runs an LLM-powered customer-support assistant in production. The risk register has one row that motivates the demo: *"Anomalous refusal-rate spikes on the assistant indicate either policy drift or attempted misuse — both warrant investigation."*
+**Scenario: Aurora Assistant** — A B2B SaaS company runs an LLM-powered customer-support assistant (Aurora Assistant) plus two supporting models (`SupportRouter-v2` intent classifier and `ChurnSignal-v3` account-health predictor). The risk register has one row that motivates the demo: *"Anomalous refusal-rate spikes on the assistant indicate either policy drift or attempted misuse — both warrant investigation."*
 
-The instructor walks through deriving one KRI from that single row: **refusal rate on Aurora Assistant**, thresholds (green ≤ 3%, amber 3–7%, red > 7%), daily rolling-24h cadence, escalation Platform Lead → AI Review Board at amber → CRO + AppSec at red. The Excel workbook captures the KRI definition; the demo notebook then implements the KRI as a small pandas function that consumes a synthetic 30-day LLM monitoring log (`refusal_log.csv` — turns, refusal-flag, session-id, model-version) and returns `{value, status, owner, timestamp}` — the seed pattern for a production `kri_calculator.py`.
+The instructor walks through deriving one KRI from that single row: **refusal rate on Aurora Assistant**, thresholds (green ≤ 3%, amber 3–7%, red > 7%), daily rolling-24h cadence, escalation Platform Lead → AI Review Board at amber → CRO + AppSec at red. The Excel workbook captures the KRI definition, anchors it against the 3-model portfolio inventory, and crosswalks it back to the source risk row; the demo notebook then implements the KRI as a small pandas function that consumes a synthetic 30-day LLM monitoring log (`refusal_log.csv` — turns, refusal-flag, session-id, model-version) and returns `{value, status, owner, timestamp}` — the seed pattern for a production `kri_calculator.py`.
 
 ## Exercise
 
-**Scenario: NorthBank** — A digital-only fintech with 10 production AI models in flight (fraud detection, credit decisioning, customer support, marketing personalization, transaction categorization, etc.). The CISO needs a portfolio-level governance system: two production-grade KRI functions plus three design-spec KRIs ready for follow-up engineering, plus a one-page dashboard the AI review board will use monthly.
+**Scenario: UdaciBank** — A digital-only fintech with 10 production AI models in flight (fraud detection, credit decisioning, customer support, marketing personalization, transaction categorization, etc.). The CISO needs a portfolio-level governance system: two production-grade KRI functions plus three design-spec KRIs ready for follow-up engineering, plus a one-page dashboard the AI review board will use monthly.
 
 ### Task
 
 **Part 1 — KRI Definitions (Excel)**
 
-1. **Define 5 KRIs at portfolio level** — subgroup FNR delta, drift score, **refusal rate (LLM customer-support assistant — GenAI-native KRI)**, vendor SLA breach rate, % of production models with a current threat model. Two are pre-filled with full definitions (input source, threshold, owner, escalation, cadence).
+1. **Define 5 KRIs at portfolio level** — subgroup FNR delta, drift score, **jailbreak-classifier hit rate (LLM customer-support assistant — GenAI-native KRI distinct from the demo's refusal-rate signal)**, vendor SLA breach rate, % of production models with a current threat model. Two are pre-filled with full definitions (input source, threshold, owner, escalation, cadence).
 2. **Complete the remaining 3 KRI definitions** — for each, name the input source, the green / amber / red thresholds, the monitoring cadence, the named owner, the escalation path, and the board-facing one-sentence interpretation.
 
 **Part 2 — Portfolio Inventory + Risk Register Crosswalk (Excel)**
