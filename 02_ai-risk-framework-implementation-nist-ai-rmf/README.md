@@ -57,3 +57,13 @@ The instructor populates a risk register live with 7 risks across all four NIST 
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few framing details worth flagging for learners who want to map this lesson to the underlying standards.
+
+- **Risk-scoring scheme.** The `Risk Score = Impact × Likelihood` formula and the four bands (Critical ≥ 15, High 10–14, Medium 5–9, Low < 5) are one common operationalization used here for clarity. NIST AI 100-1 defines risk as a function of the magnitude of harm and the likelihood of occurrence (see [NIST AI 100-1, Section 1](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)) but is intentionally agnostic about the calculation method, so organizations adopt the scheme that fits their existing ERM stack — multiplicative is one widely used choice; additive and weighted-rubric variants are equally valid.
+- **EU AI Act routing for clinical decision support.** Where a system also qualifies as a regulated medical device under EU MDR / IVDR, the High-Risk classification routes through **Annex I** (regulated product safety) in addition to (or rather than) Annex III. The compliance obligations are the same; the statutory anchor differs. See [Annex I](https://artificialintelligenceact.eu/annex/1/) for the product-regulation list.
+- **EU AI Act routing for fraud detection.** Annex III §5(b) targets **creditworthiness scoring** of natural persons. Pure transaction-level fraud detection becomes High-Risk by extension when its output materially shapes downstream credit, onboarding, or eligibility decisions; standalone fraud-only models sit outside §5(b). See [Annex III](https://artificialintelligenceact.eu/annex/3/).
+- **HIPAA penalty figures.** The "$50K – $1.5M per violation" figures used as a reference are the canonical historical numbers; HHS adjusts them annually for inflation (the 2026 per-violation maximum is approximately **$73K** (effective Jan 28, 2026, per Federal Register inflation adjustment)). Current schedule: [HHS HIPAA Compliance and Enforcement](https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/index.html).

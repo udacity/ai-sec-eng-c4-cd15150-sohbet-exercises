@@ -63,3 +63,11 @@ Using 100 hours of simulated TransitAI monitoring data with 8 injected anomalies
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the regulatory anchors used in the TransitAI scenario.
+
+- **Transit regulators — FTA, NHTSA, NTSB.** For US ground transportation, the primary first-line regulators differ by mode. The **Federal Transit Administration (FTA)** is the primary regulator for rail transit and bus systems and runs the **State Safety Oversight (SSO) program** under [49 CFR Part 674](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-VI/part-674) — this is where mandated incident-notification timeframes (e.g., 2-hour rail-transit notification) live. The **National Highway Traffic Safety Administration (NHTSA)** is the primary regulator for highway autonomous-driving systems and runs the [Standing General Order 2021-01](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) for ADS / Level-2 crash reporting. The **National Transportation Safety Board (NTSB)** is an independent investigative body that conducts post-incident investigations and issues safety recommendations; it is typically the recipient of incident reports rather than the source of operating regulations. The lesson's "NTSB / FTA" framing covers transit specifically; for fully-autonomous highway deployments, NHTSA is the closer first-line regulator.
+- **California breach notification.** The breach-notification statute is **Cal. Civ. Code §1798.82**, which predates and operates alongside the CCPA / CPRA. The CCPA itself (codified at Cal. Civ. Code §1798.100 et seq.) provides a [private right of action under §1798.150](https://oag.ca.gov/privacy/ccpa) for breaches of *unencrypted personal information* but the underlying notification obligation flows from §1798.82. References to "CCPA breach notification" in the materials should be read as covering both the §1798.82 notification obligation and the §1798.150 private right of action.

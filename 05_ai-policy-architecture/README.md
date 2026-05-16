@@ -39,11 +39,11 @@ The instructor walks the full AI policy stack live — the four documents (AUP, 
 
 **Part 2 — Prohibited Uses**
 
-1. **Complete the prohibited-use table** — Two prohibitions are pre-filled as worked examples. Add three more (customer financial data in prompts, MNPI in prompts, model-file exfiltration, unsanctioned models in production code). For each, specify the rationale and the binding consequence.
+1. **Complete the prohibited-use table** — Two prohibitions are pre-filled as worked examples (rows 1–2). Three more rows are scaffolded by category — AI-coding-assistant misuse on regulated codebases, embedded-AI-feature misuse in third-party tools, and AI-as-sole-basis for client-affecting decisions — and you supply the rationale + tiered consequence ladder (1st / 2nd / 3rd offense) for each.
 
 **Part 3 — Acceptable Uses**
 
-1. **List acceptable uses with verification guidance** — Two acceptable uses are pre-filled. Add three more, each with the verification step that confirms the use is in-policy.
+1. **List acceptable uses with verification guidance** — Two acceptable uses are pre-filled. Three more rows are scaffolded by use category — sanctioned-LLM retrieval over public corpus, AI-features-inside-sanctioned-tools, and sanctioned-LLM for internal content drafting — and you supply the verification step that confirms each use is in-policy.
 
 **Part 4 — Exception Procedure**
 
@@ -65,3 +65,13 @@ The instructor walks the full AI policy stack live — the four documents (AUP, 
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the regulatory anchors and control taxonomy used in this lesson.
+
+- **Detective vs preventive controls.** Several entries on the Control Map sheet describe controls that operate primarily as **preventive** (blocking) — DLP that blocks the request before it leaves the perimeter, a CI/CD gate that blocks merge when policy compliance is missing, an SSO admin disabling AI features. In a strict NIST SP 800-53 / ISO 27001 control-type taxonomy these are *preventive controls with detective signaling* rather than purely detective controls. The Control Map column header is kept as "Detective Control" for consistency with how the policy team frames the binding-control linkage; the underlying point is that every prohibition needs a technical control behind it (whether detective, preventive, or both). Where the lesson uses "detective control" as shorthand for "binding technical control," that's the working definition.
+- **GLBA vs SEC Reg S-P for investment-management firms.** GLBA (Gramm-Leach-Bliley) is the federal statute governing safeguarding of customer financial information. For SEC-registered investment advisers and broker-dealers, the operative implementation is **SEC Regulation S-P** (17 CFR Part 248), which the SEC modernized in May 2024 to add a 30-day breach-notification requirement. References in the lesson to "GLBA" for the UdaciFinancial scenario should be read as covering both the underlying GLBA obligation and the SEC Reg S-P implementation that applies to investment-management firms specifically. See [SEC Regulation S-P](https://www.sec.gov/rules-regulations/2024/06/s7-05-23).
+- **MNPI under Rule 10b-5.** Material non-public information is the central concept under SEC Rule 10b-5 / 10b5-1 enforcement of insider trading under the Securities Exchange Act of 1934. The prohibition on submitting MNPI into AI prompts is a derivative of the broader insider-trading framework, not a standalone AI rule. See [17 CFR 240.10b5-1](https://www.law.cornell.edu/cfr/text/17/240.10b5-1).
+- **GDPR DPO role (Articles 37-39).** The Data Protection Officer is a defined role under [GDPR Articles 37-39](https://gdpr-info.eu/art-37-gdpr/). DPO designation is mandatory for organizations engaging in large-scale processing of special-category data or systematic monitoring at scale; a 5,000-person investment-management firm operating in the EU and processing customer financial data would commonly designate a DPO. The DPO is an internal compliance role rather than an enforcement recipient — DPO involvement on a policy violation is internal-process best practice, not a GDPR-mandated escalation.

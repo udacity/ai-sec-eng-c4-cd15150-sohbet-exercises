@@ -70,3 +70,11 @@ This module is notebook-first (no workbook). The standard C4 color palette doesn
 | Green | Scenario description | Scenario brief context |
 
 For this module specifically, the audit-memo template in the starter notebook uses `[Your response here]` placeholders to mark fill-in cells.
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the libraries and legal anchors used in this lesson.
+
+- **Detoxify model variants.** The `detoxify` package ships three checkpoints with different base models: `original` is BERT-based (`bert-base-uncased`); `unbiased` is RoBERTa-based; `multilingual` is XLM-R-based. Where the lesson references "RoBERTa / XLM-R variants," that's specifically the `unbiased` and `multilingual` checkpoints.
+- **ECOA / Regulation B context (2026).** ECOA + Reg B remain the operative federal fair-lending framework. The CFPB's April 2026 final rule on Regulation B narrowed federal disparate-impact liability, while disparate-treatment analysis (including via proxies such as ZIP-derived income or education) remains actionable. State fair-lending laws and the Fair Housing Act also continue to recognize disparate-impact theories. See [CFPB ECOA / Regulation B](https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/equal-credit-opportunity-act/) for the current schedule.

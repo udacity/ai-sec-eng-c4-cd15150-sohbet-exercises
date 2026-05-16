@@ -18,7 +18,7 @@ This module teaches students to author the Model Card layer of an AI transparenc
 └── README.md
 ```
 
-Each workbook contains six sheets: Scenario Brief, Model Card, Article 11 Crosswalk, Gap Log, Transparency Stack Reference, Article 11 Reference.
+Each workbook contains several sheets: Scenario Brief, Model Card, Article 11 Crosswalk, Gap Log, Transparency Stack Reference, Article 11 Reference, and Reference Notes.
 
 ## Demo
 
@@ -56,3 +56,17 @@ The instructor walks the four transparency artifacts (Model Card, Datasheet for 
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the EU AI Act and MITRE ATLAS citations used in this lesson.
+
+- **Article 11 paragraph numbering — pedagogical shorthand vs statutory structure.** For brevity, this lesson refers to *Article 11 §1(a)–(h)* on the Article 11 Crosswalk and Article 11 Reference sheets. In the published Regulation (EU) 2024/1689, Article 11(1) is a single paragraph that requires technical documentation drawn up before placing on market and *"containing, at a minimum, the elements set out in Annex IV."* The topical content (general description, training methodologies, monitoring approach, accuracy, cybersecurity, etc.) is structured in **Annex IV sections 1–9**. The §1(x) labels used here are a pedagogical shorthand for the corresponding Annex IV sections — designed to give the Model Card crosswalk a row-by-row anchor the AI review board can follow. When sharing this work outside the lesson, use the Annex IV section numbers as the canonical statutory anchor. See [Article 11](https://artificialintelligenceact.eu/article/11/) and [Annex IV](https://artificialintelligenceact.eu/annex/4/).
+- **AML.T0024 sub-techniques.** In MITRE ATLAS, the parent technique `AML.T0024` is *"Exfiltration via AI Inference API."* The two sub-techniques are:
+  - `AML.T0024.000` *"Infer Training Data Membership"* (membership-inference attacks)
+  - `AML.T0024.001` *"Invert AI Model"* (reconstruct training data from model outputs)
+  The Model Card Security Considerations row references `AML.T0024.000` for the training-data inference scenario; the demo workbook has been updated to use the precise sub-ID.
+- **ATLAS naming evolution.** ATLAS has been renaming the prefix from "ML" to "AI" in some technique names (e.g., `AML.T0040` is now "AI Model Inference API Access" in current revisions). Technique IDs are the stable canonical reference; treat the ID as authoritative when the name on the live catalog differs from the workbook label.
+
+For the live, authoritative catalog, see [MITRE ATLAS](https://atlas.mitre.org/) and the per-technique pages.

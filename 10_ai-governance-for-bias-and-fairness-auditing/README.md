@@ -61,7 +61,7 @@ Subgroups in scope: gender (male / female), race (4 categories), age band (under
 **Part 3 — Optional bonus**
 
 1. Add predictive parity as a fourth metric.
-2. Test a second intervention (post-processing reweighting via Fairlearn's `ThresholdOptimizer`).
+2. Test a second intervention (post-processing per-group threshold optimization via Fairlearn's `ThresholdOptimizer` — reassigns the decision threshold per protected group rather than reweighting the training data).
 3. **Section 7 — GenAI surface.** Run the same primitives against the synthetic LLM-hiring-screen fixture (`data/llm_hiring_screen.csv` — 200 candidates, gender label, LLM advance/screen-out, human qualification label). Show the metric pattern transfers to a 2026-current GenAI use case **without losing the policy anchor** (ECOA / Reg B, NYC LL-144, EU AI Act Annex III).
 
 ### Color Guide
@@ -83,3 +83,13 @@ In the starter notebook, markdown cells starting with `📌 TODO` are your work 
 - **BBQ** (Bias Benchmark for QA) — LLM-specific fairness benchmark for stereotype-anchored question answering.
 - **BiasInBios** — fairness benchmark on occupation classification from biographies (used in Section 7's framing).
 - **HELM** (Stanford CRFM) — holistic evaluation suite covering accuracy, fairness, robustness, and other axes.
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the fairness-policy thresholds and library APIs used in this lesson.
+
+- **0.10 ceiling for equalized-odds and equal-opportunity differences.** The 0.10 threshold used throughout the SafeWheels and UdaciBank scenarios is a **firm-policy threshold** chosen for this lesson — it is not a regulatory or industry-wide standard. Real organizations set EO / EOpp ceilings based on their policy, regulatory exposure, and the distribution of their training data; common firm policies range from 0.05 to 0.15 depending on the use case and risk tier. By contrast, the **0.80 demographic-parity floor** is anchored to the [EEOC 4/5ths rule](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines) and has external regulatory provenance.
+- **Fairlearn `ThresholdOptimizer` family.** [`ThresholdOptimizer`](https://fairlearn.org/main/api_reference/generated/fairlearn.postprocessing.ThresholdOptimizer.html) is a *post-processing* mitigation that selects a separate decision threshold per protected group to satisfy a fairness constraint (e.g., equalized odds). It does not modify the training data — that's the role of pre-processing techniques like AIF360's [`Reweighing`](https://aif360.readthedocs.io/en/stable/modules/generated/aif360.algorithms.preprocessing.Reweighing.html). Both families are valid mitigations; they intervene at different points in the pipeline.
+- **The fairness-impossibility result.** The well-known impossibility result (Chouldechova 2017; Kleinberg-Mullainathan-Raghavan 2016) is formally between **calibration** and **error-rate balance under unequal base rates**. The lesson's framing of an "impossibility trilemma" across DP, EO, and EOpp is a related practical observation — these metrics generally cannot all hold simultaneously except in degenerate cases — but the formal proof targets the calibration-vs-equalized-odds pair specifically.
+- **ECOA / Regulation B (2026).** ECOA + Reg B remain the operative federal fair-lending anchor. The CFPB's April 2026 final rule on Regulation B narrowed federal disparate-impact liability, while disparate-treatment analysis (including via proxies) remains actionable. State fair-lending laws and the Fair Housing Act also continue to recognize disparate-impact theories.

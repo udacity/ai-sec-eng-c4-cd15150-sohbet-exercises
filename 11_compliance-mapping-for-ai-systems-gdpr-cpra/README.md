@@ -57,3 +57,12 @@ Data is provided inline: 11 records across 2 subjects (9 for SUBJ-10001, 2 for S
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the GDPR citations used in this lesson.
+
+- **Article 6 lawful bases — six total.** GDPR Article 6(1) lists six lawful bases for processing personal data: (a) consent, (b) contract, (c) legal obligation, (d) vital interests, (e) public task, and (f) legitimate interest. Where the materials list four bases as a quick reference, the full statutory list is the six above. See [GDPR Article 6](https://gdpr-info.eu/art-6-gdpr/).
+- **Deletion response timeline.** The default response window for a data-subject request (including erasure under Art. 17) is **one month** under [Art. 12(3)](https://gdpr-info.eu/art-12-gdpr/), extendable by up to two further months for complex / numerous requests with notice to the data subject. Article 33 (72-hour breach notification to the supervisory authority) and Article 34 (breach communication to data subjects) cover personal-data breach incidents, which is a separate workflow from a routine deletion request. Where a deletion request escalates to the supervisory authority, the route is through [Art. 77](https://gdpr-info.eu/art-77-gdpr/) (right to lodge a complaint).
+- **Article 5(1)(f) — integrity and confidentiality.** The integrity / confidentiality principle is at Art. 5(1)(f); subsection notation in references should follow the §1(letter) form used elsewhere in the workbook.
