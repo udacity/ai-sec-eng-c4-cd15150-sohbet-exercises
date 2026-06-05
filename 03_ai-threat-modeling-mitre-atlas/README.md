@@ -61,7 +61,7 @@ The instructor walks one MITRE ATLAS technique — **AML.T0051 LLM Prompt Inject
 
 A few specification details worth keeping in view as you work with the ATLAS catalog. ATLAS is actively maintained — IDs are stable; technique names occasionally update.
 
-- **`AML.T0048` parent vs. sub-techniques.** ATLAS structures *External Harms* (`AML.T0048`) into sub-techniques. The financial-loss case the demo walks through is captured precisely by **`AML.T0048.001` "Financial Harm"**; ATLAS uses the term *Financial Harm* in the catalog. See [MITRE ATLAS — AML.T0048](https://atlas.mitre.org/techniques/AML.T0048/).
+- **`AML.T0048` parent vs. sub-techniques.** ATLAS structures *External Harms* (`AML.T0048`) into sub-techniques. The financial-loss case the demo walks through is captured precisely by **`AML.T0048.000` "Financial Harm"** (note `AML.T0048.001` is *Reputational Harm*); ATLAS uses the term *Financial Harm* in the catalog. See [MITRE ATLAS — AML.T0048](https://atlas.mitre.org/techniques/AML.T0048/).
 - **`AML.T0018` parent tactics.** ATLAS lists *Backdoor ML Model* under both **Persistence** and **ML Attack Staging** tactics, depending on whether the backdoor is staged before deployment or seeded post-deployment.
 - **`AML.T0000` official catalog name** is "Search **for** Victim's Publicly Available Research Materials."
 - **Naming evolution.** ATLAS has been renaming the prefix from "ML" to "AI" in some technique names (e.g., `AML.T0040` is "AI Model Inference API Access" in current revisions). Technique IDs are the stable canonical reference; treat the ID as authoritative when the name on the live catalog differs from the workbook label.
