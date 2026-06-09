@@ -1,20 +1,38 @@
 | Program Info | Title | | Key |
 | :---- | :---- | :---- | :---- |
-| ND | | | |
-| Course | | | |
-| Modular content sequence *(if modular build)* | Part X of Y | | |
+| ND | AI Security Engineer (nd909) | | |
+| Course | cd15150 — AI Security Strategy, Risk, Governance, and Compliance (GRC) | | |
+| Modular content sequence *(if modular build)* | Full course (Parts 1–3) | | |
 | Production Tier | | | |
 | **Build Team** | | **Production Requirements** | **Number of videos** |
-| TCD | | Headshots + Slides | 11 |
-| PgM | | Slides | 1 |
-| Producer | | Slides + Demo | |
-| Author name | | Demo | 17 |
-| Author email | | Solution | 36 |
-| | | Headshots + Demo | |
-| | | Headshots + Slides + Demo | |
-| | | Static graphics (not videos) | |
+| TCD | Prachi Dawer | Headshots + Slides | 9 |
+| PgM | Ye Li | Slides | - |
+| Producer | | Slides + Demo | - |
+| Author name | Sohbet Dovranov | Demo | 17 |
+| Author email | sohbetdovranov@gmail.com | Solution | 18 |
+| | | Headshots + Demo | - |
+| | | Headshots + Slides + Demo | - |
+| | | Static graphics (not videos) | - |
+| | | **TOTAL videos** | **44** |
 
 ## Module/Video #: Module 1 Video 1
+
+### Title: Course Introduction — AI Security GRC
+
+### Type (Production Requirements): Headshots + Slides
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| A model is sitting in production right now at some company, quietly approving loans, flagging transactions, or screening job applicants. It works. Until the day a regulator, a journalist, or a rejected customer asks one simple question: why did it make that decision, and who signed off on letting it? Welcome to the part of AI security that does not live in the code. This is the course on strategy, risk, governance, and compliance. | HEADSHOT. Animated lower-third title fades in on the last line: 'AI Security: Strategy · Risk · Governance · Compliance'. |
+| Here is the shift you are about to make. Up to now in this program, the work has been about building and attacking AI systems. This course is about the layer that sits above all of that: deciding whether a system is safe to ship, proving it to people who are not engineers, and staying on the right side of the law while you do it. This is the work that turns a clever model into a trustworthy product. | HEADSHOT. Text overlay animates a hand-off: 'Build & Secure the AI' fades out, 'Govern · Assess · Defend the Decision' fades in over the speaker's shoulder. |
+| Think about the role you are stepping into. For these modules, you are not the model builder. You are the person leadership turns to and asks, can we safely launch this? You are the one who has to translate a confusing technical reality into a clear, defensible recommendation. That is the job of an AI risk and governance lead, and it is one of the fastest-growing seats in the room. | HEADSHOT. Animated lower-third name-tag overlay reveals: 'Your role: AI Risk & Governance Lead'. |
+| So what will you actually be able to do? First, you will master the frameworks that give your judgments authority. You will use Explainable AI to audit why a model made a call, run threat modeling with MITRE ATLAS, operationalize the NIST AI Risk Management Framework, and classify a system under the EU AI Act. These are the reference points auditors and regulators already speak. | HEADSHOT. Four keyword chips pop in over the shoulder, one per framework as it is named: 'Explainable AI', 'MITRE ATLAS', 'NIST AI RMF', 'EU AI Act'. |
+| Then you will turn frameworks into day-to-day practice. You will write enforceable AI policies, run an incident response drill for an AI-specific breach, design the security metrics that actually wake a team up at night, assess third-party model vendors, document a model card, audit for bias and fairness, map your privacy obligations, and design the operating model that holds it all together. | HEADSHOT. An animated checklist overlay ticks items on as they are spoken: Policies · Incident Response · Security Metrics · Vendor Risk · Model Cards · Bias & Fairness · Privacy · Operating Model. |
+| Here is how the learning works. Every concept you meet in these videos, you then put your hands on. You will work through guided demos and then build the real artifacts yourself in workbooks and notebooks: risk registers, threat models, KRI dashboards, model cards. The goal is not to memorize definitions. It is to produce the evidence a real governance review demands. | HEADSHOT. Two-word overlay animates left-to-right: 'Watch the concept' transitions into 'Build the artifact'. |
+| It all comes together in your project. You will take on Operation HealthGuard, a full governance review of an AI model that predicts patient diabetes risk. Acting as the lead AI Risk Officer, you will assess it from every angle and produce the portfolio that decides its fate: a risk register, a model card, and a metrics dashboard. Your verdict determines whether it launches. | HEADSHOT. Project title overlay 'Operation HealthGuard' animates in; three deliverable tags reveal in sequence — 'Risk Register', 'Model Card', 'Metrics Dashboard' — then a final 'Launch Decision' stamp. |
+| So let me leave you with the question this whole course is built to answer. The next time a high-stakes AI system lands on your desk and someone asks whether the company can safely stand behind it, will you be guessing, or will you have the evidence? By the end of these modules, you will be the person in the room who can answer with confidence. Let us get started. | HEADSHOT. Closing reflective-question overlay fades up: 'Guessing — or evidence?' then resolves to 'Let''s get started.' |
+
+## Module/Video #: Module 2 Video 1
 
 ### Title: Understanding Explainable AI (XAI) for Security Auditing
 
@@ -34,9 +52,9 @@
 | Before writing that finding, consider this: if asked to defend a SHAP plot, could you also defend what it does not say? First, correlation is not causation. A high SHAP value means a feature moved the model, not that it caused the real-world outcome. Second, SHAP is highly sensitive to your background dataset. Swap reference data, and your explanation shifts. Finally, rare features in imbalanced datasets can look artificially massive. | Three-column list with warning icons. Column 1: 'Correlation ≠ Causation' (Link broken icon). Column 2: 'Background Sensitivity' (Database icon with shifting arrows). Column 3: 'Rare Feature Exaggeration' (Magnifying glass over a tiny dot appearing huge). [CLICK:] Reveal Correlation ≠ Causation; [CLICK:] Reveal Background Sensitivity; [CLICK:] Reveal Rare Feature Exaggeration |
 | Ultimately, raw plots are not an audit report. The interpretation layer is your actual deliverable. Your memo must synthesize local and global findings, prove the proxy through ablation, and explicitly state technical caveats. The plot is just evidence; the narrative is what governance acts on. Explainable AI is a powerful lens, but making sure a model is fair always rests with the human at the end of the API. | HEADSHOT |
 
-## Module/Video #: Module 2 Video 1
+## Module/Video #: Module 3 Video 1
 
-### Title: shap_demo
+### Title: shap_demo (Notebook)
 
 ### Type (Production Requirements): Demo
 
@@ -48,23 +66,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 2 Video 2
+## Module/Video #: Module 3 Video 2
 
-### Title: xai_audit_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 2 Video 3
-
-### Title: xai_audit_solution
+### Title: xai_audit_solution (Notebook)
 
 ### Type (Production Requirements): Solution
 
@@ -76,7 +80,7 @@
 | | |
 | | |
 
-## Module/Video #: Module 3 Video 1
+## Module/Video #: Module 4 Video 1
 
 ### Title: Understanding the NIST AI Risk Management Framework
 
@@ -89,91 +93,64 @@
 | | |
 | | |
 | | |
-## Module/Video #: Module 4 Video 1
-
-### Title: risk_scoring_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 4 Video 2
-
-### Title: risk_assessment_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 4 Video 3
-
-### Title: risk_scoring
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 4 Video 4
-
-### Title: risk_assessment
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 4 Video 5
-
-### Title: risk_scoring
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 4 Video 6
-
-### Title: risk_assessment
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
 
 ## Module/Video #: Module 5 Video 1
+
+### Title: risk_scoring_demo (Notebook)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 5 Video 2
+
+### Title: risk_assessment_demo (Excel)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 5 Video 3
+
+### Title: risk_scoring (Notebook)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 5 Video 4
+
+### Title: risk_assessment (Excel)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 6 Video 1
 
 ### Title: Understanding AI Threat Modeling with MITRE ATLAS
 
@@ -193,9 +170,9 @@
 | The biggest mistake teams make is treating a threat modeling framework like an exhaustive homework checklist. It is a vocabulary. You do not model every technique in the catalog; you identify the five that actually apply to the thing you are building. When was the last time you reviewed a risk register and realized it was missing the adversary's perspective entirely? | Headshot |
 | Ultimately, your design-time findings and your runtime ATLAS findings converge into a single, well-owned risk register. This translates technical vulnerabilities into bounded business risks. By standardizing how you talk about threats, you give your leadership the exact clarity they need to make confident launch decisions. You are no longer just reacting to attacks; you are anticipating them with a shared language. | A funnel diagram. Top inputs: 'Design-time Findings' and 'Runtime ATLAS Findings'. [CLICK:] The funnel outputs to a single document icon labeled 'Single Risk Register'. [CLICK:] An arrow points from the register to a target icon labeled 'Bounded Business Risk & Confident Launch Decisions'. Click to show the funnel output; click to show the business outcome. |
 
-## Module/Video #: Module 6 Video 1
+## Module/Video #: Module 7 Video 1
 
-### Title: threat_model_demo
+### Title: threat_model_demo (Excel)
 
 ### Type (Production Requirements): Demo
 
@@ -207,23 +184,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 6 Video 2
+## Module/Video #: Module 7 Video 2
 
-### Title: threat_model_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 6 Video 3
-
-### Title: threat_model
+### Title: threat_model (Excel)
 
 ### Type (Production Requirements): Solution
 
@@ -235,11 +198,11 @@
 | | |
 | | |
 
-## Module/Video #: Module 7 Video 1
+## Module/Video #: Module 8 Video 1
 
 ### Title: Understanding Regulatory Compliance for AI and the EU AI Act
 
-### Type (Production Requirements): Slides
+### Type (Production Requirements): Headshots + Slides
 
 | Script *(one row per slide)* | Guidance for Complex Visuals |
 | :---- | :---- |
@@ -255,91 +218,63 @@
 | This classification dictates your operational reality. Take the Article 73 incident clock. If a High-Risk system malfunctions, a 15-day reporting clock starts the moment your company becomes aware. How fast can your on-call engineer escalate to the legal team? If your internal communication is slow, those 15 days are half-burned before the right people even know there is a problem. | A timeline with a stopwatch icon labeled 'Article 73 Incident Clock'. A starting point 'Awareness of Malfunction'. An endpoint '15 Days: Report Due'. [CLICK:] An escalation path appears below the timeline: 'On-call Engineer -> Legal Team', with a warning icon showing 'Slow internal comms burn time'. |
 | The classification step is your entire compliance program in microcosm. Get it wrong, and every downstream engineering control is calibrated to the wrong risk. If an auditor walked into your office tomorrow and asked to see your documentation for a system you ship, what would they find? Your ability to map a system's features to its regulatory tier is the blueprint for your technical security roadmap. | HEADSHOT |
 
-## Module/Video #: Module 8 Video 1
-
-### Title: eu_ai_act_classifier_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 8 Video 2
-
-### Title: compliance_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 8 Video 3
-
-### Title: eu_ai_act_classifier
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 8 Video 4
-
-### Title: compliance_plan
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 8 Video 5
-
-### Title: eu_ai_act_classifier
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 8 Video 6
-
-### Title: compliance_plan
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
 ## Module/Video #: Module 9 Video 1
+
+### Title: eu_ai_act_classifier_demo (Notebook)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 9 Video 2
+
+### Title: compliance_demo (Excel)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 9 Video 3
+
+### Title: eu_ai_act_classifier (Notebook)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 9 Video 4
+
+### Title: compliance_plan (Excel)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 10 Video 1
 
 ### Title: Understanding the AI Policy Stack and Enforcement
 
@@ -356,9 +291,9 @@
 | Even with clear guidance, every policy generates exception requests. If you do not have a formal procedure, exceptions become ad-hoc emails. Those emails become tribal knowledge, and eventually, that tribal knowledge silently overwrites your policy. When was the last time you saw a temporary workaround become permanent just because nobody tracked it? You need a named workflow: Request, Security Triage, and formal Risk Acceptance by a named officer who signs off on the residual risk. | 3-step linear flow chart. Step 1: Request (Icon: Document). Arrow to Step 2: Security Triage (Icon: Shield). Arrow to Step 3: Risk Acceptance (Icon: Signature by Named Officer). [CLICK:] Show Step 1: Request; [CLICK:] Show Step 2: Security Triage; [CLICK:] Show Step 3: Risk Acceptance |
 | And there is one final trap even with a formal process: the forgotten expiry date. Picture this: you grant an exception for a sales team to use an unsanctioned summarization tool just for one quarter. Without a hard expiry and re-review embedded in your control map, that three-month exception quietly becomes permanent shadow IT for half the organization. A single missing date can unravel your entire governance architecture. That is how policy drift happens, one forgotten expiry at a time. | Timeline diagram. Starts with Exception Granted node, arrow to a 3 Months duration, leading to a Hard Expiry & Re-Review node. A branching path below shows a Warning Icon labeled Missing Expiry leads to Permanent Shadow IT. [CLICK:] Show Exception Granted and 3-month timeline; [CLICK:] Show Hard Expiry and Re-Review node; [CLICK:] Show consequence branch for Missing Expiry becoming Permanent Shadow IT |
 
-## Module/Video #: Module 10 Video 1
+## Module/Video #: Module 11 Video 1
 
-### Title: ai_policy_demo
+### Title: ai_policy_demo (Excel)
 
 ### Type (Production Requirements): Demo
 
@@ -370,23 +305,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 10 Video 2
+## Module/Video #: Module 11 Video 2
 
-### Title: ai_aup
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 10 Video 3
-
-### Title: ai_aup
+### Title: ai_aup (Excel)
 
 ### Type (Production Requirements): Solution
 
@@ -398,7 +319,7 @@
 | | |
 | | |
 
-## Module/Video #: Module 11 Video 1
+## Module/Video #: Module 12 Video 1
 
 ### Title: Understanding AI Incident Response Playbook Design
 
@@ -411,9 +332,10 @@
 | | |
 | | |
 | | |
-## Module/Video #: Module 12 Video 1
 
-### Title: incident_response_demo
+## Module/Video #: Module 13 Video 1
+
+### Title: incident_response_demo (Excel)
 
 ### Type (Production Requirements): Demo
 
@@ -425,23 +347,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 12 Video 2
+## Module/Video #: Module 13 Video 2
 
-### Title: incident_detection_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 12 Video 3
-
-### Title: incident_response_starter
+### Title: incident_response_solution (Excel)
 
 ### Type (Production Requirements): Solution
 
@@ -453,23 +361,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 12 Video 4
+## Module/Video #: Module 13 Video 3
 
-### Title: incident_response_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 12 Video 5
-
-### Title: incident_detection_solution
+### Title: incident_detection_solution (Notebook)
 
 ### Type (Production Requirements): Solution
 
@@ -481,7 +375,7 @@
 | | |
 | | |
 
-## Module/Video #: Module 13 Video 1
+## Module/Video #: Module 14 Video 1
 
 ### Title: Understanding AI Security Metrics and KRI Design
 
@@ -501,91 +395,63 @@
 | Five is roughly the right number for a leadership dashboard. You cover the major risk categories without building a museum. A balanced portfolio includes subgroup false negative rates for fairness, drift scores for validity, jailbreak hit rates for adversarial misuse, vendor SLA breach rates for third-party risk, and threat model coverage. Notice how you mix system-level metrics with broad portfolio-level metrics. | A clean dashboard of exactly 5 tiles (callback: not the 47-tile museum). Tiles with icons: Fairness (scales, 'Subgroup FNR'), Validity (drift-arrow, 'Drift Score'), Adversarial (shield, 'Jailbreak Hit Rate'), Third-Party (handshake, 'Vendor SLA'), Coverage (grid-map, 'Threat Model'). [CLICK:] Reveal system-level tiles 1-3; [CLICK:] Reveal portfolio-level tiles 4-5 |
 | Ultimately, the true test of your AI governance program is not how beautiful the dashboard looks on a monitor. The test is whether a red indicator wakes your team up at night with the exact context you need to stop a prompt-injection campaign. Five KRIs that you act on will always beat fifty metrics that you only admire. | Headshot |
 
-## Module/Video #: Module 14 Video 1
-
-### Title: kri_calculator_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 14 Video 2
-
-### Title: kri_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 14 Video 3
-
-### Title: kri_definitions
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 14 Video 4
-
-### Title: kri_calculator_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 14 Video 5
-
-### Title: kri_definitions
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 14 Video 6
-
-### Title: kri_calculator_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
 ## Module/Video #: Module 15 Video 1
+
+### Title: kri_calculator_demo (Notebook)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 15 Video 2
+
+### Title: kri_demo (Excel)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 15 Video 3
+
+### Title: kri_definitions (Excel)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 15 Video 4
+
+### Title: kri_calculator_solution (Notebook)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 16 Video 1
 
 ### Title: Understanding Third-Party AI Model Risk
 
@@ -598,91 +464,64 @@
 | | |
 | | |
 | | |
-## Module/Video #: Module 16 Video 1
-
-### Title: vendor_governance_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 16 Video 2
-
-### Title: vendor_risk_scoring_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 16 Video 3
-
-### Title: vendor_risk_scoring_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 16 Video 4
-
-### Title: vendor_governance_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 16 Video 5
-
-### Title: vendor_risk_scoring_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 16 Video 6
-
-### Title: vendor_governance_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
 
 ## Module/Video #: Module 17 Video 1
+
+### Title: vendor_governance_demo (Excel)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 17 Video 2
+
+### Title: vendor_risk_scoring_demo (Notebook)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 17 Video 3
+
+### Title: vendor_risk_scoring_solution (Notebook)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 17 Video 4
+
+### Title: vendor_governance_solution (Excel)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 18 Video 1
 
 ### Title: Understanding AI Transparency Documentation
 
@@ -701,9 +540,9 @@
 | Check this out, though. No transparency stack is ever completely finished on day one. A mature compliance program uses a Gap Log to track what is missing, rather than papering over it. If your Model Card defers training data details, your Gap Log assigns that requirement to the Datasheet, names an owner, and sets a target date for completion. | A simple table diagram labeled Gap Log. Columns: Missing Requirement (e.g., Training Data Details), Assigned Document (e.g., Datasheet), Owner, Target Date. A single filled row demonstrates the example. [CLICK:] Reveal the Missing Requirement column; [CLICK:] Reveal the Assigned Document, Owner, and Target Date columns |
 | Early in my career, I left the caveats section of a model card blank because I did not want to scare off a potential customer. Three months later, that customer integrated the model and hit exactly the catastrophic failure mode I had been afraid to document. When was the last time you withheld a known flaw just to make something look better? Transparency is about proving your model is understood. | HEADSHOT |
 
-## Module/Video #: Module 18 Video 1
+## Module/Video #: Module 19 Video 1
 
-### Title: model_card_demo
+### Title: model_card_demo (Excel)
 
 ### Type (Production Requirements): Demo
 
@@ -715,23 +554,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 18 Video 2
+## Module/Video #: Module 19 Video 2
 
-### Title: model_card
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 18 Video 3
-
-### Title: model_card
+### Title: model_card (Excel)
 
 ### Type (Production Requirements): Solution
 
@@ -743,7 +568,7 @@
 | | |
 | | |
 
-## Module/Video #: Module 19 Video 1
+## Module/Video #: Module 20 Video 1
 
 ### Title: Understanding Bias and Fairness Auditing for AI Governance
 
@@ -762,9 +587,9 @@
 | So what happens when that demographic-parity ratio is sitting at 0.78? A sub-policy metric does not automatically mean a no-go. Often, it results in a Conditional Launch memo. This memo details exact mitigation controls, like applying per-group thresholds. It outlines a strict ongoing monitoring cadence, perhaps 90-day reviews, and clear escalation paths if metrics slip. You are not just saying yes or no; you are defining the exact conditions under which the model is safe to operate. | A central document icon labeled 'Conditional Launch Memo'. Three callout boxes connect to it. Callout 1: 'Mitigation Controls (e.g., Thresholds)'. Callout 2: 'Monitoring Cadence (90-day reviews)'. Callout 3: 'Escalation Paths'. [CLICK:] Show Memo document icon; [CLICK:] Reveal Mitigation Controls; [CLICK:] Reveal Monitoring Cadence; [CLICK:] Reveal Escalation Paths. |
 | And this framework is not just for traditional models. The mechanics of fairness auditing do not vanish when you switch to generative AI. Whether you are auditing a binary classifier for loans or a large language model acting as a resume screener, the core primitives transfer perfectly. Ultimately, fairness governance is about measuring and mitigating human impact, regardless of the underlying technical surface. That is how you turn abstract principles into defensible, real-world AI decisions. | A split-screen comparison. Left side: 'Traditional AI' with a decision tree icon and label 'Loan Approval'. Right side: 'Generative AI' with a chat bubble icon and label 'Resume Screener'. A large bracket encompasses both sides, pointing down to a single foundation box labeled 'Core Primitives & Human Impact'. [CLICK:] Show Traditional AI side; [CLICK:] Show Generative AI side; [CLICK:] Reveal the bracket and bottom foundation box. |
 
-## Module/Video #: Module 20 Video 1
+## Module/Video #: Module 21 Video 1
 
-### Title: fairness_demo
+### Title: fairness_demo (Notebook)
 
 ### Type (Production Requirements): Demo
 
@@ -776,23 +601,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 20 Video 2
+## Module/Video #: Module 21 Video 2
 
-### Title: fairness_audit_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 20 Video 3
-
-### Title: fairness_audit_solution
+### Title: fairness_audit_solution (Notebook)
 
 ### Type (Production Requirements): Solution
 
@@ -804,7 +615,7 @@
 | | |
 | | |
 
-## Module/Video #: Module 21 Video 1
+## Module/Video #: Module 22 Video 1
 
 ### Title: Understanding Data Retention and Privacy Compliance for AI Systems
 
@@ -817,91 +628,64 @@
 | | |
 | | |
 | | |
-## Module/Video #: Module 22 Video 1
-
-### Title: data_retention_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 22 Video 2
-
-### Title: deletion_workflow_demo
-
-### Type (Production Requirements): Demo
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 22 Video 3
-
-### Title: data_retention_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 22 Video 4
-
-### Title: deletion_workflow_starter
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 22 Video 5
-
-### Title: deletion_workflow_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 22 Video 6
-
-### Title: data_retention_solution
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
 
 ## Module/Video #: Module 23 Video 1
+
+### Title: data_retention_demo (Excel)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 23 Video 2
+
+### Title: deletion_workflow_demo (Notebook)
+
+### Type (Production Requirements): Demo
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 23 Video 3
+
+### Title: deletion_workflow_solution (Notebook)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 23 Video 4
+
+### Title: data_retention_solution (Excel)
+
+### Type (Production Requirements): Solution
+
+| Script *(one row per slide)* | Guidance for Complex Visuals |
+| :---- | :---- |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Module/Video #: Module 24 Video 1
 
 ### Title: Understanding the AI Governance Operating Model
 
@@ -920,9 +704,9 @@
 | Even with all this in place, the first version of your operating model will have gaps. You will find decision bottlenecks or realize a policy only exists on paper. For example, maybe your incident escalation path relies on a chair who is asleep at 3 a.m. When you find these gaps, you update the model. You keep a formal Iteration Log to document how your governance evolves based on operational evidence, proving to auditors that it is a living system. | Circular iteration cycle diagram. Nodes: 'Deploy Model', 'Identify Gaps', 'Update Model'. In the center, a clipboard icon labeled 'Formal Iteration Log'. [CLICK:] Reveal the iteration cycle; [CLICK:] Show the 'Formal Iteration Log' in the center. |
 | So, let me leave you with the ultimate test of your operating model. Picture your team's last AI launch. Walk back the decision chain. Who actually approved it? In what specific artifact is that approval recorded? If you cannot answer that question with a name, a date, and a log entry in under thirty seconds, you have governance ambition. You don't have an operating model. Now you know exactly how to build one that actually works. | Headshot |
 
-## Module/Video #: Module 24 Video 1
+## Module/Video #: Module 25 Video 1
 
-### Title: governance_demo
+### Title: governance_demo (Excel)
 
 ### Type (Production Requirements): Demo
 
@@ -934,23 +718,9 @@
 | | |
 | | |
 
-## Module/Video #: Module 24 Video 2
+## Module/Video #: Module 25 Video 2
 
-### Title: ai_governance_core
-
-### Type (Production Requirements): Solution
-
-| Script *(one row per slide)* | Guidance for Complex Visuals |
-| :---- | :---- |
-| | |
-| | |
-| | |
-| | |
-| | |
-
-## Module/Video #: Module 24 Video 3
-
-### Title: ai_governance_core
+### Title: ai_governance_core (Excel)
 
 ### Type (Production Requirements): Solution
 
