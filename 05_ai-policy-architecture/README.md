@@ -34,8 +34,8 @@ The instructor walks the full AI policy stack live — the four documents (AUP, 
 
 **Part 1 — AUP Body**
 
-1. **Purpose, Scope, Definitions** — Write the three opening sections, including an explicit boundary statement that names the other three policies in the stack.
-2. **Roles and Responsibilities** — Name the AUP owner, the enforcement owner, and the exception-approval authority.
+1. **Purpose, Scope, Definitions** — The Purpose section (row 1) is pre-filled as a worked example; write the Scope and Definitions sections, including an explicit boundary statement (in Scope) that names the other three policies in the stack.
+2. **Roles and Responsibilities** — Pre-filled as a worked example: review how the AUP owner, the enforcement owner, and the exception-approval authority are assigned, and keep them in mind for the Exception Procedure.
 
 **Part 2 — Prohibited Uses**
 
@@ -75,3 +75,4 @@ A few specification details for learners cross-referencing the regulatory anchor
 - **GLBA vs SEC Reg S-P for investment-management firms.** GLBA (Gramm-Leach-Bliley) is the federal statute governing safeguarding of customer financial information. For SEC-registered investment advisers and broker-dealers, the operative implementation is **SEC Regulation S-P** (17 CFR Part 248), which the SEC modernized in May 2024 to add a 30-day breach-notification requirement. References in the lesson to "GLBA" for the UdaciFinancial scenario should be read as covering both the underlying GLBA obligation and the SEC Reg S-P implementation that applies to investment-management firms specifically. See [SEC Regulation S-P](https://www.sec.gov/rules-regulations/2024/06/s7-05-23).
 - **MNPI under Rule 10b-5.** Material non-public information is the central concept under SEC Rule 10b-5 / 10b5-1 enforcement of insider trading under the Securities Exchange Act of 1934. The prohibition on submitting MNPI into AI prompts is a derivative of the broader insider-trading framework, not a standalone AI rule. See [17 CFR 240.10b5-1](https://www.law.cornell.edu/cfr/text/17/240.10b5-1).
 - **GDPR DPO role (Articles 37-39).** The Data Protection Officer is a defined role under [GDPR Articles 37-39](https://gdpr-info.eu/art-37-gdpr/). DPO designation is mandatory for organizations engaging in large-scale processing of special-category data or systematic monitoring at scale; a 5,000-person investment-management firm operating in the EU and processing customer financial data would commonly designate a DPO. The DPO is an internal compliance role rather than an enforcement recipient — DPO involvement on a policy violation is internal-process best practice, not a GDPR-mandated escalation.
+- Exception flow: MNPI-Adjacent requests take the full workflow, with GC co-signature required at the Risk Acceptance step.
