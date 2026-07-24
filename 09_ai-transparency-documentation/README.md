@@ -70,3 +70,5 @@ A few specification details for learners cross-referencing the EU AI Act and MIT
 - **ATLAS naming evolution.** ATLAS has been renaming the prefix from "ML" to "AI" in some technique names (e.g., `AML.T0040` is now "AI Model Inference API Access" in current revisions). Technique IDs are the stable canonical reference; treat the ID as authoritative when the name on the live catalog differs from the workbook label.
 
 For the live, authoritative catalog, see [MITRE ATLAS](https://atlas.mitre.org/) and the per-technique pages.
+- Article 13's transparency duties attach to high-risk systems; for a Limited-risk system like FeedbackIQ, documentation expectations flow from the customer's procurement contract.
+- Article 50 splits its duties: 50(1)–(2) bind the *provider* (direct-interaction and synthetic-content disclosure); 50(3)–(4) bind the *deployer* (emotion-recognition / biometric-categorisation notices, deepfake labels).

@@ -29,11 +29,11 @@ This module teaches students to run a focused fairness audit by computing the th
 
 ## Demo
 
-**Scenario: SafeWheels Insurance — Auto-pricing model** — An auto-insurance pricing model returns a demographic-parity ratio of 0.78 between two protected groups (age band and ZIP-derived geographic cluster). Is 0.78 launchable?
+**Scenario: SafeWheels Insurance — Auto-pricing model** — An auto-insurance pricing model returns a demographic-parity ratio of 0.73 across protected age groups (age band and ZIP-derived geographic cluster). Is 0.73 launchable?
 
 The instructor walks the canonical fairness-audit pipeline live: load predictions + labels + subgroup column; compute DP ratio, equalized odds, and equal opportunity **from confusion-matrix primitives** (~15 lines); cross-check against Fairlearn in one line; compare each metric against the policy thresholds; run a counterfactual showing how per-group threshold adjustment shifts each metric; identify the launch decision (go / conditional / no-go) and the named owner; close with a one-paragraph board-facing summary.
 
-The walkthrough surfaces the impossibility trilemma (you cannot satisfy all three metrics simultaneously) and shows that the interpretation layer — what does "0.78" mean for THIS product? — is the GRC practitioner's job.
+The walkthrough surfaces the impossibility trilemma (you cannot satisfy all three metrics simultaneously) and shows that the interpretation layer — what does "0.73" mean for THIS product? — is the GRC practitioner's job.
 
 ## Exercise
 
