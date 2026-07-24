@@ -48,7 +48,7 @@ The instructor uses SHAP to produce a per-instance explanation for the flagged p
 2. **Generate SHAP explanations for both flagged cases** — TreeExplainer; per-instance waterfall plots; save as `shap_explanations_case1.png` and `shap_explanations_case2.png`.
 3. **Compare local feature importance against the model's global feature importance** — render the global-importance bar chart as `shap_global_importance.png`.
 4. **Identify proxy attributes** — a `detect_proxy_features()` helper flags features whose local SHAP impact is materially larger than the model's global average impact in the same direction across the two cases. Common candidates: ZIP-derived income proxy, employer name proxy, education proxy.
-5. **Run a feature-removal counterfactual** — re-score the two flagged cases with the most-suspect proxy ablated to its training-set median, and quantify the change in approval probability + SHAP attribution. (This is the exercise-specific analytical step the demo doesn't cover.)
+5. **Run a feature-removal counterfactual** — re-score the two flagged cases with the most-suspect proxy ablated to its test-set median, and quantify the change in approval probability + SHAP attribution. (This is the exercise-specific analytical step the demo doesn't cover.)
 
 **Part 2 — Audit Memo (Notebook markdown cell)**
 
@@ -70,6 +70,8 @@ This module is notebook-first (no workbook). The standard C4 color palette doesn
 | Green | Scenario description | Scenario brief context |
 
 For this module specifically, the audit-memo template in the starter notebook uses `[Your response here]` placeholders to mark fill-in cells.
+
+> **Note on model artifacts:** loading the shipped `.joblib` classifiers may emit a scikit-learn `InconsistentVersionWarning` (the artifacts were exported on a newer patch line than the pinned runtime). This is expected and harmless — the models load and predict correctly; no action is needed.
 
 
 ## Reference Notes
