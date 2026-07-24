@@ -70,3 +70,7 @@ The instructor walks through deriving one KRI from that single row: **refusal ra
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+## Reference Notes
+
+- With the shipped `credit_drift_features.csv`, the completed drift calculator returns a maximum PSI of ≈ 1.96 (`debt_to_income`) — well into the red band.

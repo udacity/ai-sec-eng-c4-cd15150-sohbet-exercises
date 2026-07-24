@@ -41,6 +41,7 @@ The instructor walks through vendor governance concepts live, filling in vendor 
 
 1. **Vendor Assessment** — Evaluate each vendor across security posture, data handling practices, model transparency, financial stability, and SLA compliance. Document certifications, evidence, and risk ratings.
 2. **SLA Requirements** — Track vendor SLA performance including uptime, latency, and incident response metrics against contractual thresholds.
+3. **Contingency Plan** — Develop response plans for the 8 vendor-risk scenarios (probability, impact, mitigation strategy, backup vendor, migration timeline, data portability, communication plan).
 
 **Part 2 — Vendor Risk Scoring (Notebook)**
 
@@ -49,7 +50,7 @@ Vendor evaluation scores (0–100 per criterion) and 30 days of simulated SLA da
 1. **Define Scoring Weights** — Assign weights across 7 risk dimensions (Security, Data Handling, Transparency, Financial Stability, SLA Compliance, Exit Strategy, **AI_Model_Governance** — GenAI-specific 7th covering training-data provenance, model-update notification, fine-tuning portability, and liability terms) that sum to 1.0, reflecting insurance-industry priorities.
 2. **Calculate Risk Scores** — Implement a function that computes a weighted average of vendor scores (0–100 per criterion) and converts the result to a 1–5 risk scale where 1 = lowest risk and 5 = highest risk. The conversion logic is yours to design — document it in the function docstring.
 3. **Vendor Recommendation Logic** — Implement a function that classifies vendors as Highly Recommended (risk ≤ 1.5 + SLA compliant), Recommended (≤ 2.5 + SLA compliant), Acceptable with Monitoring (≤ 3.5), or Not Recommended (> 3.5).
-4. **Visualizations** (pre-provided, run and review) — Risk comparison bar chart, 30-day SLA compliance dashboard (uptime + latency tracking), and radar chart comparing top 3 vendors across all dimensions.
+4. **Visualizations** (pre-provided, run and review) — Risk comparison bar chart, 30-day SLA compliance dashboard (uptime + latency tracking), and radar chart comparing top 3 vendors across the six operational dimensions (AI Model Governance feeds the weighted risk score and ranked summary rather than the radar).
 5. **Scenario Analysis — Model-Update Incident** — Building on the InsureLogic incident in the scenario, write a brief printed assessment of which vendor(s) carry the highest model-update-notification risk and how you'd justify that ranking against your scoring.
 6. **Final Assessment Report** — Review the ranked vendor summary with risk scores, SLA compliance status, and governance recommendations.
 7. **Exit-Strategy Analysis** — Bucket each vendor by switching-cost (Low / Moderate / High) using the `Exit_Strategy` dimension. Pick your own thresholds and print which vendors fall in each bucket.
@@ -71,3 +72,4 @@ A few specification details for learners cross-referencing the standards and too
 
 - **PCI DSS notification vs GDPR Article 33 notification.** PCI DSS requires notification of *acquirers / card brands* without undue delay; the timeline is set by the card-brand contracts rather than by PCI DSS itself. The familiar 72-hour deadline is the [GDPR Article 33](https://gdpr-info.eu/art-33-gdpr/) requirement for personal-data breach notification to the supervisory authority. The two regimes can apply in parallel during a payment-data breach; the deadlines are separate.
 - **AWS Bedrock Guardrails capabilities.** [Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/) provides content-safety filtering (denied topics, contextual grounding to detect hallucinations, PII redaction, and harmful-output filters). Demographic-bias detection in the fairness-metric sense (demographic parity, equalized odds, etc.) is a separate workload typically handled by tools like Fairlearn or AIF360 rather than by Guardrails directly.
+- DeepLens is the deliberately weak vendor in this scenario: no published security certification and low model transparency — its notebook scores (15 and 40 on those criteria) reflect that posture.
