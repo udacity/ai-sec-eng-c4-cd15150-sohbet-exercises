@@ -88,3 +88,4 @@ A few specification details for learners cross-referencing the ISO/IEC 42001 and
 - **NIST AI RMF Govern 1.4 vs 1.5.** Govern 1.4 = "Risk management process and outcomes are established through transparent policies, procedures, and other controls." Govern 1.5 = "Ongoing monitoring and periodic review of the risk management process and its outcomes are planned." Effectiveness-evaluation framing aligns more precisely with Govern 1.5; the two subcategories together cover policy establishment + periodic review.
 
 For the live, authoritative references, see [NIST AI 100-1 Playbook — Govern](https://airc.nist.gov/airmf-resources/playbook/govern/) and the [ISO/IEC 42001:2023 catalog](https://www.iso.org/standard/42001).
+- NIST AI 100-1 Table 1 anchors: communicating AI impacts to stakeholders is **GOVERN 4.2**; effectiveness review of the risk-management process is **GOVERN 1.5** (see the in-workbook Reference Notes on the 1.4 vs 1.5 distinction).

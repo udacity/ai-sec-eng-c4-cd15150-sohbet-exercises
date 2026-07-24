@@ -35,8 +35,10 @@ The instructor walks through data retention policy concepts live, filling in ret
 
 **Part 1 — Data Retention Policy (Excel)**
 
-1. **Retention Schedule** — Define data categories, retention periods, legal bases, and deletion triggers for each data type.
-2. **Privacy Controls** — Map data processing activities to GDPR articles, specify lawful bases, and document technical and organizational measures.
+1. **Retention Policy** — Define retention periods, legal bases, deletion triggers, and archival rules for the 12 data categories.
+2. **Deletion Workflow** — Complete the 10-step GDPR erasure-request workflow, from request intake through deletion certification.
+3. **Retraining Triggers** — Document the retraining triggers that map deleted data to the models trained on it.
+4. **Audit Trail Requirements** — Specify the 8 audit event types with their required fields, retention, and access controls.
 
 **Part 2 — Deletion Workflow (Notebook)**
 
@@ -66,3 +68,6 @@ A few specification details for learners cross-referencing the GDPR citations us
 - **Article 6 lawful bases — six total.** GDPR Article 6(1) lists six lawful bases for processing personal data: (a) consent, (b) contract, (c) legal obligation, (d) vital interests, (e) public task, and (f) legitimate interest. Where the materials list four bases as a quick reference, the full statutory list is the six above. See [GDPR Article 6](https://gdpr-info.eu/art-6-gdpr/).
 - **Deletion response timeline.** The default response window for a data-subject request (including erasure under Art. 17) is **one month** under [Art. 12(3)](https://gdpr-info.eu/art-12-gdpr/), extendable by up to two further months for complex / numerous requests with notice to the data subject. Article 33 (72-hour breach notification to the supervisory authority) and Article 34 (breach communication to data subjects) cover personal-data breach incidents, which is a separate workflow from a routine deletion request. Where a deletion request escalates to the supervisory authority, the route is through [Art. 77](https://gdpr-info.eu/art-77-gdpr/) (right to lodge a complaint).
 - **Article 5(1)(f) — integrity and confidentiality.** The integrity / confidentiality principle is at Art. 5(1)(f); subsection notation in references should follow the §1(letter) form used elsewhere in the workbook.
+- Citation anchors: the 25-year clinical-trial archiving period stems from EU CTR 536/2014 Art. 58 (ICH-GCP E6(R3) defers to applicable regulatory requirements); HIPAA's six-year rule (45 CFR 164.316) covers Security-Rule documentation; GDPR sets no fixed audit-log period — longer retention (e.g., 7 years) is an internal standard.
+- Where a record carries a mandatory-retention hold (e.g., FDA/EMA safety data), GDPR Art. 17(3)(b) permits retention: archive and restrict access rather than erase — the exercise workflow demonstrates this path. The compliance summary's per-disposition counts (deleted / archived / legal hold) are the authoritative tally.
+- The deletion workflow documents five retraining triggers.
