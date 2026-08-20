@@ -18,7 +18,7 @@ This module teaches students to design the core of an AI governance operating mo
 └── README.md
 ```
 
-Each workbook contains eight sheets: Scenario Brief, Charter, RACI Matrix, Reporting Cadence, Red-Team Governance, Govern Crosswalk (with both NIST AI RMF Govern and ISO/IEC 42001 columns), Failure Mode Stress Test, Iteration Log.
+Each workbook contains nine sheets: Scenario Brief, Charter, RACI Matrix, Reporting Cadence, Red-Team Governance, Govern Crosswalk (with both NIST AI RMF Govern and ISO/IEC 42001 columns), Failure Mode Stress Test, Iteration Log, and Reference Notes.
 
 ## Demo
 
@@ -58,7 +58,7 @@ As Chief AI Risk Officer, design the core of MegaShop's AI governance operating 
 **Part 5 — Govern Crosswalk**
 
 1. **Map each charter element / RACI row to a specific NIST AI RMF Govern subcategory** — Govern 1.1, 1.2, etc.
-2. **Map the same element to its corresponding ISO/IEC 42001 control** — A.2.2 AI policy, A.3.2 Internal organization, A.6.2.5 AI system deployment, A.10.2 Suppliers, etc. The Govern Crosswalk has both columns side-by-side so you see them as complementary maps, not competing standards.
+2. **Map the same element to its corresponding ISO/IEC 42001 control** — A.2.2 AI policy, A.3.2 Internal organization, A.6.2.5 AI system deployment, A.10.3 Suppliers, etc. The Govern Crosswalk has both columns side-by-side so you see them as complementary maps, not competing standards.
 
 **Part 6 — Failure Mode Stress Test**
 
