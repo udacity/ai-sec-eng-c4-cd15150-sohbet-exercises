@@ -9,7 +9,7 @@ This lesson focuses on understanding and implementing regulatory compliance for 
 ```
 04_regulatory-compliance-for-ai-eu-ai-act/
 ├── demo/
-│   ├── compliance_demo.xlsx     # Filled-in instructor reference (4 systems, GPAI + Article 73 in matrix)
+│   ├── compliance_demo.xlsx     # Filled-in instructor reference (matrix: the 2 High-Risk systems incl. Article 73; all 4 systems + GPAI classified in the notebook)
 │   └── eu_ai_act_classifier_demo.ipynb   # Notebook walkthrough — 5-tier classifier with GPAI signal
 ├── exercises/
 │   ├── starter/
@@ -27,7 +27,7 @@ This lesson focuses on understanding and implementing regulatory compliance for 
 
 **Scenario: AutoPilot Logistics** — A European logistics company operating four AI systems: RouteGenius (route optimization), WarehouseWatch (worker safety monitoring), HireBot (automated hiring), and AssistGPT (a foundation-model integration into the dispatcher console for natural-language operations queries — a General-Purpose AI / GPAI deployment under EU AI Act Articles 51–55).
 
-The instructor builds a compliance matrix live, classifying each system's risk tier (including the GPAI layer for AssistGPT), identifying applicable requirements (including Article 11 technical documentation and Article 73 serious-incident reporting which enforces from August 2026), and documenting compliance gaps. The notebook demonstrates a rule-based EU AI Act risk classifier in Python that handles all five tiers — Unacceptable, High-Risk, GPAI, Limited, Minimal.
+The instructor first classifies each system's risk tier in the notebook (including the GPAI layer for AssistGPT), then builds a compliance matrix live for the two High-Risk systems — WarehouseWatch and HireBot — identifying applicable requirements (Articles 5, 9, 10, 13, 14, 15, plus Article 73 serious-incident reporting which enforces from August 2026) and documenting compliance gaps. The notebook demonstrates a rule-based EU AI Act risk classifier in Python that handles all five tiers — Unacceptable, High-Risk, GPAI, Limited, Minimal.
 
 ## Exercise
 
@@ -42,9 +42,9 @@ The instructor builds a compliance matrix live, classifying each system's risk t
 
 **Part 2 — Risk Classifier (Notebook)**
 
-1. Define `RISK_TIERS` dictionary with descriptions, examples, and applicable articles for each EU AI Act tier (Unacceptable, High-Risk, GPAI [Articles 51–55], Limited, Minimal). The GPAI entry is the 2026 refresh — without it, GPT-class systems are silently classified as Limited, which is incorrect under the current Act.
+1. Define `RISK_TIERS` dictionary with descriptions, examples, and applicable articles for each EU AI Act tier (Unacceptable, High-Risk, GPAI [Articles 51–55], Limited, Minimal). The GPAI entry comes from Regulation (EU) 2024/1689 — without it, GPT-class systems are silently classified as Limited, which is incorrect under the current Act.
 2. Implement a `classify_ai_system()` function that evaluates boolean characteristics (biometric use, fundamental rights impact, safety criticality, social scoring, **general-purpose foundation-model integration**) and returns a risk tier, applicable articles, required actions, and reasoning. The `is_general_purpose_foundation_model` signal routes GPT-class systems to the GPAI tier rather than letting them fall through to Limited.
-3. Define and classify 6 test AI systems spanning all five tiers (HR recruitment, healthcare diagnosis, GPAI integrator system, biometric finance, social scoring, inventory optimization).
+3. Define and classify 6 test AI systems spanning four of the five tiers — Unacceptable, High-Risk, GPAI, and Minimal (HR recruitment, healthcare diagnosis, an in-house GPAI foundation model, biometric finance, social scoring, inventory optimization); the Limited tier is defined in the classifier and covered in the Risk Tiers reference.
 4. Generate a classification summary table and risk tier distribution.
 5. Export classification results to CSV for compliance documentation.
 
@@ -56,3 +56,17 @@ The instructor builds a compliance matrix live, classifying each system's risk t
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## Reference Notes
+
+A few specification details for learners cross-referencing the EU AI Act citations used in this lesson. The Act is large and several requirements span multiple Articles + Annexes — these notes map the lesson's shorthand to the precise statutory anchors.
+
+- **GPAI obligations bind the model provider.** Articles 53–55 place their duties (Annex XI technical documentation, copyright policy, training-content summary; Article 54 authorised representatives) on the **provider of the general-purpose AI model**. In this lesson's scenario the organization develops and serves the AssistGPT foundation model itself, which is why those obligations attach. An organization that merely integrates a third-party GPAI model via API is a *downstream provider* of a GPAI-based AI system (Art. 3(66)–(68)): it owes AI-system-level duties (Article 50 transparency, an Article 6 high-risk check) and should obtain the upstream provider's Annex XII information pack — it does not itself owe Articles 53–55 unless it substantially modifies the model.
+- **GPAI tier provenance.** The General-Purpose AI tier (Articles 51–55) was introduced in **Regulation (EU) 2024/1689** itself when adopted in June 2024 and entered into force on 1 August 2024. The substantive GPAI provider obligations (Articles 53 / 55) became *applicable* on **2 August 2025**. The "GPAI under the 2026 framework" language used throughout the lesson refers to the operational integration of GPAI into the broader high-risk-system regime that becomes generally applicable on 2 August 2026 — not to the introduction of GPAI itself, which is part of the original 2024 Regulation. See [Implementation Timeline](https://artificialintelligenceact.eu/implementation-timeline/).
+- **Article 10 vs Article 15 — where bias-prevention obligations live.** The substantive obligation to *examine training datasets for biases* and *apply appropriate detection / mitigation measures* sits in **Article 10(2)(f)–(g)** (data and data governance). Article 15 covers accuracy, robustness, and cybersecurity. Where the lesson references bias prevention, Article 10 is the precise anchor; the Compliance Matrix solution cells have been updated to reflect this.
+- **Article 13 vs Article 50 — who the disclosure is to.** Article 13 (transparency and provision of information) governs what the *provider* must give the *deployer* of a high-risk system. End-user / affected-person disclosure (chatbot disclosure, deepfake labeling, biometric/emotion-recognition notice) is in **Article 50**. Where the lesson treats Article 13 as the anchor for "tell affected persons that AI is involved," Article 50 is the closer fit; both Articles can apply in tandem when a high-risk system is also user-facing.
+- **Article 73 reporting deadlines are tiered.** The 15-day deadline is the *general default*. Article 73 also specifies **2 days** for incidents involving widespread infringement (Article 3(49)(b)), and **10 days** for incidents involving the death of a person. See [Article 73](https://artificialintelligenceact.eu/article/73/). The 15-day SLA used as the worked example in REQ-007 is the upper bound; production playbooks should cover all three tiers.
+- **Annex III vs Annex I for safety-critical and clinical systems.** The Act has two High-Risk routes. **Annex III** lists eight specific use-case areas (biometrics, critical infrastructure, education, employment, essential services, law enforcement, migration, justice/democracy). **Annex I** captures AI that is also a regulated product (or a safety component thereof) under product-safety legislation such as the EU MDR / IVDR, the Machinery Regulation, etc. Camera-based worker safety systems and clinical decision support typically route through Annex I product-safety legislation; pure-software AI for credit, hiring, biometrics, etc. routes through Annex III. The compliance obligations are the same; the statutory anchor differs.
+- **Log-retention floor.** Article 12 governs logging *capability* over the system lifetime; the statutory retention floor for logs is **at least six months** (Arts. 19(1) and 26(6)). Longer periods — five years is a common enterprise choice — are internal standards layered on top.
+- **Classifier outputs.** RouteGenius classifies as **Minimal**; the four demo systems yield three distinct tiers (Minimal, High-Risk ×2, GPAI), and the six exercise systems cover Unacceptable, High-Risk, GPAI, and Minimal.

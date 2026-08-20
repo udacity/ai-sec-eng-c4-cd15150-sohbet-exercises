@@ -12,19 +12,19 @@ This module teaches students how to translate the MITRE ATLAS catalog of adversa
 │   └── threat_model_demo.xlsx                  # Filled-in instructor reference (ChatPoint, AML.T0051 walkthrough)
 ├── exercises/
 │   ├── starter/
-│   │   └── threat_model_starter.xlsx           # Student starting file (FinTrust, 5 TTPs, 2 pre-filled)
+│   │   └── threat_model_starter.xlsx           # Student starting file (FinTrust, 5 TTP IDs pre-scoped, 2 fully worked)
 │   └── solution/
 │       └── threat_model.xlsx                   # Completed solution (FinTrust, all 5 TTPs + Board Brief, with Reasoning: annotations)
 └── README.md
 ```
 
-Each workbook contains six sheets: Scenario Brief, Threat Model, Board Brief, Scoring Rubric, ATLAS TTP Reference, Control Family Reference.
+Each workbook contains several sheets: Scenario Brief, Threat Model, Board Brief, Scoring Rubric, ATLAS TTP Reference, Control Family Reference, and ATLAS Reference Notes.
 
 ## Demo
 
 **Scenario: ChatPoint** — A B2C customer-support chatbot built on a foundation-model API, deployed on the public internet through a web widget. The product team wants the AI review board to sign off on a new LLM-powered self-serve refund flow before launch.
 
-The instructor walks one MITRE ATLAS technique — **AML.T0051 LLM Prompt Injection** — through ChatPoint's specific architecture: scoping the technique against the public-facing chat surface, scoring it (high likelihood given the public surface, medium-to-high impact given the new refund tool), mapping it to a named control family (input filtering + tool-use guardrails + behavioral monitoring), and translating the result into a single risk-register row a security review can act on. The Threat Model sheet shows AML.T0051 alongside two adjacent TTPs (AML.T0040 ML Model Inference API Access; AML.T0048 External Harms — Financial Loss) so students see how the row format applies across multiple techniques. The Board Brief sheet then ties those rows into a Conditional-Launch recommendation. The supporting reference sheets (Scoring Rubric, ATLAS TTP Reference, Control Family Reference) are the same three sheets students will reuse in the exercise.
+The instructor walks one MITRE ATLAS technique — **AML.T0051 LLM Prompt Injection** — through ChatPoint's specific architecture: scoping the technique against the public-facing chat surface, scoring it (high likelihood given the public surface, medium-to-high impact given the new refund tool), mapping it to a named control family (input filtering + tool-use guardrails + behavioral monitoring), and translating the result into a single risk-register row a security review can act on. The Threat Model sheet shows AML.T0051 alongside two adjacent TTPs (AML.T0040 AI Model Inference API Access; AML.T0048 External Harms — Financial Loss) so students see how the row format applies across multiple techniques. The Board Brief sheet then ties those rows into a Conditional-Launch recommendation. The supporting reference sheets (Scoring Rubric, ATLAS TTP Reference, Control Family Reference) are the same three sheets students will reuse in the exercise.
 
 ## Exercise
 
@@ -35,8 +35,8 @@ The instructor walks one MITRE ATLAS technique — **AML.T0051 LLM Prompt Inject
 **Part 1 — Threat Model sheet**
 
 1. **Review the Architecture Description** — Read the FinTrust system overview on the Scenario Brief sheet (model, API surface, image-upload pipeline, KYC decision downstream).
-2. **Read the Pre-Filled TTPs** — Two TTPs are already scoped end-to-end on the Threat Model sheet (AML.T0006 Active Scanning and AML.T0040 ML Model Inference API Access). Read them as worked examples.
-3. **Scope 3 Additional TTPs** — Select 3 ATLAS techniques from the ATLAS TTP Reference sheet that apply to FinTrust's specific architecture. For each TTP, write the Architecture Scoping rationale (one sentence: how the TTP shows up against this system).
+2. **Read the Pre-Filled TTPs** — Two TTPs are already scoped end-to-end on the Threat Model sheet (AML.T0006 Active Scanning and AML.T0040 AI Model Inference API Access). Read them as worked examples.
+3. **Scope 3 Additional TTPs** — The starter pre-fills three additional TTP IDs in rows 4–6 (AML.T0015 Evade AI Model — Deepfake / Generative-Liveness Bypass, AML.T0024 Exfiltration via AI Inference API, AML.T0020 Poison Training Data) so everyone works from the same scope. Cross-reference each ID against the ATLAS TTP Reference sheet to understand the technique, then write the Architecture Scoping rationale (one sentence: how the TTP shows up against FinTrust's specific architecture).
 4. **Score Likelihood and Impact (1–5)** — For each new TTP, score likelihood and impact using the Scoring Rubric. Risk Score and Risk Level auto-calculate from your inputs.
 5. **Map to a Control Family** — For each new TTP, name the primary Control Family from the Control Family Reference and list 1–2 Named Controls that would catch or mitigate it.
 6. **Assign Owner and Status** — Set the responsible owner role and an initial Status (Open / Mitigated / Accepted).
@@ -55,3 +55,15 @@ The instructor walks one MITRE ATLAS technique — **AML.T0051 LLM Prompt Inject
 | Pink | Contains `[Your response here]` prompts | Your work area — fill these cells |
 | Yellow | Contains reference text (read-only) | Reference material — do not edit |
 | Green | Scenario description | Scenario brief context |
+
+
+## ATLAS Reference Notes
+
+A few specification details worth keeping in view as you work with the ATLAS catalog. ATLAS is actively maintained — IDs are stable; technique names occasionally update.
+
+- **`AML.T0048` parent vs. sub-techniques.** ATLAS structures *External Harms* (`AML.T0048`) into sub-techniques. The financial-loss case the demo walks through is captured precisely by **`AML.T0048.000` "Financial Harm"** (note `AML.T0048.001` is *Reputational Harm*); ATLAS uses the term *Financial Harm* in the catalog. See [MITRE ATLAS — AML.T0048](https://atlas.mitre.org/techniques/AML.T0048/).
+- **`AML.T0018` parent tactics.** ATLAS lists *Backdoor AI Model* under both **Persistence** and **AI Attack Staging** tactics, depending on whether the backdoor is staged before deployment or seeded post-deployment.
+- **`AML.T0000` official catalog name** is "Search **for** Victim's Publicly Available Research Materials."
+- **Naming evolution.** ATLAS has been renaming the prefix from "ML" to "AI" in some technique names (e.g., `AML.T0040` is "AI Model Inference API Access" in current revisions). Technique IDs are the stable canonical reference; treat the ID as authoritative when the name on the live catalog differs from the workbook label.
+
+For the live, authoritative catalog, see [MITRE ATLAS](https://atlas.mitre.org/).
