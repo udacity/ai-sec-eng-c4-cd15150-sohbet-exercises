@@ -36,7 +36,7 @@ The instructor walks the four transparency artifacts (Model Card, Datasheet for 
 
 1. **Read the pre-filled sections** — Model Details, Intended Use, and Factors are pre-filled as worked examples.
 2. **Populate Metrics with subgroup breakdowns** — by review language and industry segment.
-3. **Write the Security Considerations section** — known attack vectors (adversarial text, prompt-injection-like payloads), mitigations, residual risks, red-team findings. **Tag each attack vector with its ATLAS ID** (e.g., `AML.T0015 Evade ML Model`, `AML.T0051 LLM Prompt Injection`) so any downstream threat model can cross-walk against it cleanly.
+3. **Write the Security Considerations section** — known attack vectors (adversarial text, prompt-injection-like payloads), mitigations, residual risks, red-team findings. **Tag each attack vector with its ATLAS ID** (e.g., `AML.T0015 Evade AI Model`, `AML.T0051 LLM Prompt Injection`) so any downstream threat model can cross-walk against it cleanly.
 4. **Write Caveats and Limitations** — what the model is NOT validated for; out-of-distribution behavior; known failure modes.
 
 **Part 2 — Article 11 Crosswalk**

@@ -2,7 +2,7 @@
 
 > **Maintainer note:** When importing this content into the classroom, omit the H1 above — the classroom adds its own page title.
 
-This module teaches students to run a focused fairness audit by computing the three core metrics (demographic-parity ratio, equalized odds, equal opportunity) **from confusion-matrix primitives first** (~15 lines), with **Fairlearn used as a one-line cross-check**. Students then test one intervention (per-group threshold adjustment), quantify the trade-off between fairness and accuracy, and produce a defensible launch / conditional-launch / no-go memo for the AI review board. An **optional Section 7** runs the same primitives against a small synthetic LLM-hiring-screen fixture to show the metric pattern transfers to a 2026-current GenAI surface without losing the policy interpretation anchor (ECOA / Reg B, NYC LL-144, EU AI Act Annex III). Students learn that fairness metrics are inputs to a governance decision, not the decision itself, and that the AI Risk Officer owns the interpretation layer.
+This module teaches students to run a focused fairness audit by computing the three core metrics (demographic-parity ratio, equalized odds, equal opportunity) **from confusion-matrix primitives first** (~15 lines), with **Fairlearn used as a one-line cross-check**. Students then test one intervention (per-group threshold adjustment), quantify the trade-off between fairness and accuracy, and produce a defensible launch / conditional-launch / no-go memo for the AI review board. An **optional Section 7** runs the same primitives against a small synthetic LLM-hiring-screen fixture to show the metric pattern transfers to a 2026-current GenAI surface without losing the policy interpretation anchor, though the anchor shifts with the domain (ECOA / Reg B for the credit decision; Title VII / EEOC and NYC LL-144 for the hiring screen; EU AI Act Annex III for both). Students learn that fairness metrics are inputs to a governance decision, not the decision itself, and that the AI Risk Officer owns the interpretation layer.
 
 ## File Structure
 
@@ -62,7 +62,7 @@ Subgroups in scope: gender (male / female), race (4 categories), age band (under
 
 1. Add predictive parity as a fourth metric.
 2. Test a second intervention (post-processing per-group threshold optimization via Fairlearn's `ThresholdOptimizer` — reassigns the decision threshold per protected group rather than reweighting the training data).
-3. **Section 7 — GenAI surface.** Run the same primitives against the synthetic LLM-hiring-screen fixture (`data/llm_hiring_screen.csv` — 200 candidates, gender label, LLM advance/screen-out, human qualification label). Show the metric pattern transfers to a 2026-current GenAI use case **without losing the policy anchor** (ECOA / Reg B, NYC LL-144, EU AI Act Annex III).
+3. **Section 7 — GenAI surface.** Run the same primitives against the synthetic LLM-hiring-screen fixture (`data/llm_hiring_screen.csv` — 200 candidates, gender label, LLM advance/screen-out, human qualification label). Show the metric pattern transfers to a 2026-current GenAI use case **without losing the policy anchor** — noting that the US anchor shifts from ECOA / Reg B (credit) to Title VII / EEOC and NYC LL-144 (employment), with EU AI Act Annex III covering both.
 
 ### Color Guide
 
